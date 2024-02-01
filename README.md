@@ -1,1 +1,1 @@
-BugSleuth is an unsupervised technique to aggregate rank lists of suspicious statements of multiple fault localization techniques for effective fault localization and improving a practitioner's productivity
+BugSleuth is an unsupervised fault localization technique to combine rank lists of suspicious statements of multiple fault localization techniques for effective and efficient fault localization thereby improving a practitioner's productivity
