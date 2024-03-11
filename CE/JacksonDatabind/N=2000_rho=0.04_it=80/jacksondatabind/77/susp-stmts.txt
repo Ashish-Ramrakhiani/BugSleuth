@@ -1,0 +1,5 @@
+com.fasterxml.jackson.databind.deser.SettableBeanProperty#531
+com.fasterxml.jackson.databind.ObjectMapper#680
+com.fasterxml.jackson.databind.deser.SettableBeanProperty#538
+com.fasterxml.jackson.databind.ObjectMapper#604
+com.fasterxml.jackson.databind.deser.SettableBeanProperty#540

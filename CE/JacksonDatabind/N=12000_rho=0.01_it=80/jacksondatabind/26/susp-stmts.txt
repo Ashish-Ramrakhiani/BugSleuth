@@ -1,0 +1,5 @@
+com.fasterxml.jackson.databind.SerializerProvider#715
+com.fasterxml.jackson.databind.ObjectMapper#3616
+com.fasterxml.jackson.databind.PropertyName#74
+com.fasterxml.jackson.databind.PropertyName#77
+com.fasterxml.jackson.databind.ObjectMapper#3516

@@ -1,0 +1,5 @@
+com.fasterxml.jackson.databind.introspect.BasicBeanDescription#535
+com.fasterxml.jackson.databind.introspect.BasicBeanDescription#527
+com.fasterxml.jackson.databind.util.TokenBuffer#203
+com.fasterxml.jackson.databind.ObjectMapper#722
+com.fasterxml.jackson.databind.deser.BeanDeserializerBase#782

@@ -1,0 +1,5 @@
+com.fasterxml.jackson.databind.ObjectReader#1003
+com.fasterxml.jackson.databind.ObjectReader#1022
+com.fasterxml.jackson.databind.util.TokenBuffer#1158
+com.fasterxml.jackson.databind.util.TokenBuffer#1157
+com.fasterxml.jackson.databind.JsonMappingException#326

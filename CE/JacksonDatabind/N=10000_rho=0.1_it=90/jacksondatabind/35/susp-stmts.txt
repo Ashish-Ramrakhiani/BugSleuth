@@ -1,0 +1,5 @@
+com.fasterxml.jackson.databind.deser.impl.BeanPropertyMap#286
+com.fasterxml.jackson.databind.deser.impl.BeanPropertyMap#287
+com.fasterxml.jackson.databind.deser.impl.BeanPropertyMap#420
+com.fasterxml.jackson.databind.deser.impl.BeanPropertyMap#424
+com.fasterxml.jackson.databind.deser.impl.BeanPropertyMap#428

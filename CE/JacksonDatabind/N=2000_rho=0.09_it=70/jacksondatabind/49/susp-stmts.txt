@@ -1,0 +1,5 @@
+com.fasterxml.jackson.databind.introspect.ObjectIdInfo#61
+com.fasterxml.jackson.databind.ObjectMapper#3744
+com.fasterxml.jackson.databind.deser.DefaultDeserializationContext#150
+com.fasterxml.jackson.databind.deser.DefaultDeserializationContext#154
+com.fasterxml.jackson.databind.util.TokenBuffer#203

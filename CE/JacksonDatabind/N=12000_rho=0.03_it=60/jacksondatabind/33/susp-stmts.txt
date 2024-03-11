@@ -1,0 +1,5 @@
+com.fasterxml.jackson.databind.JsonMappingException#326
+com.fasterxml.jackson.databind.ser.impl.UnknownSerializer#32
+com.fasterxml.jackson.databind.ser.impl.UnknownSerializer#69
+com.fasterxml.jackson.databind.deser.BeanDeserializerBase#766
+com.fasterxml.jackson.databind.SerializerProvider#849

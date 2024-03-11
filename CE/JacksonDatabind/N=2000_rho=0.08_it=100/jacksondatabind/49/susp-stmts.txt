@@ -1,0 +1,5 @@
+com.fasterxml.jackson.databind.ser.impl.WritableObjectId#59
+com.fasterxml.jackson.databind.ObjectMapper#669
+com.fasterxml.jackson.databind.ser.impl.WritableObjectId#34
+com.fasterxml.jackson.databind.deser.DefaultDeserializationContext#153
+com.fasterxml.jackson.databind.deser.DefaultDeserializationContext#154

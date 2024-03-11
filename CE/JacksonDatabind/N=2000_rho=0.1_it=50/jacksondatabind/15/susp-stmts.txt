@@ -1,0 +1,5 @@
+com.fasterxml.jackson.databind.util.ClassUtil#604
+com.fasterxml.jackson.databind.ser.BeanSerializerFactory#343
+com.fasterxml.jackson.databind.ObjectWriter#924
+com.fasterxml.jackson.databind.ext.OptionalHandlerFactory#21
+com.fasterxml.jackson.databind.util.ClassUtil#599

@@ -1,0 +1,5 @@
+com.fasterxml.jackson.databind.ObjectMapper#3371
+com.fasterxml.jackson.databind.ObjectMapper#3372
+com.fasterxml.jackson.databind.ObjectMapper#3540
+com.fasterxml.jackson.databind.introspect.JacksonAnnotationIntrospector#1330
+com.fasterxml.jackson.databind.deser.BasicDeserializerFactory#1674

@@ -1,0 +1,5 @@
+com.fasterxml.jackson.databind.deser.SettableBeanProperty#519
+com.fasterxml.jackson.databind.deser.SettableBeanProperty#520
+com.fasterxml.jackson.databind.deser.SettableBeanProperty#521
+com.fasterxml.jackson.databind.deser.SettableBeanProperty#522
+com.fasterxml.jackson.databind.deser.std.UUIDDeserializer#80

@@ -1,0 +1,5 @@
+com.fasterxml.jackson.databind.introspect.JacksonAnnotationIntrospector#766
+com.fasterxml.jackson.databind.SerializerProvider#1174
+com.fasterxml.jackson.databind.SerializerProvider#1175
+com.fasterxml.jackson.databind.util.ClassUtil#715
+com.fasterxml.jackson.databind.SerializerProvider#1177

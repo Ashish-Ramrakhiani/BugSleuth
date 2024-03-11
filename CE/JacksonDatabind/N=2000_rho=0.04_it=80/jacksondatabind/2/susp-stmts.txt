@@ -1,0 +1,5 @@
+com.fasterxml.jackson.databind.node.POJONode#30
+com.fasterxml.jackson.databind.ObjectMapper#550
+com.fasterxml.jackson.databind.ObjectMapper#2011
+com.fasterxml.jackson.databind.ObjectMapper#533
+com.fasterxml.jackson.databind.ObjectMapper#2889

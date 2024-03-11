@@ -1,0 +1,5 @@
+com.fasterxml.jackson.databind.SerializationConfig#470
+com.fasterxml.jackson.databind.JsonMappingException#326
+com.fasterxml.jackson.databind.introspect.AnnotatedClass#432
+com.fasterxml.jackson.databind.introspect.AnnotatedClass#516
+com.fasterxml.jackson.databind.SerializationConfig#467
