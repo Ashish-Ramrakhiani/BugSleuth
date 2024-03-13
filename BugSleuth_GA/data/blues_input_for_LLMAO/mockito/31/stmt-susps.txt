@@ -1,0 +1,17 @@
+org.mockito.internal.stubbing.defaultanswers.ReturnsSmartNulls#66,0.7156750572082251
+org.mockito.internal.stubbing.defaultanswers.ReturnsSmartNulls#71,0.6618993135011288
+org.mockito.internal.stubbing.defaultanswers.ReturnsSmartNulls#51,0.653318077803188
+org.mockito.internal.stubbing.defaultanswers.ReturnsSmartNulls#50,0.6378718535468944
+org.mockito.internal.stubbing.defaultanswers.ReturnsSmartNulls#52,0.6338672768878553
+org.mockito.internal.stubbing.defaultanswers.ReturnsSmartNulls#72,0.6144164759725226
+org.mockito.internal.stubbing.defaultanswers.ReturnsSmartNulls#73,0.5732265446224063
+org.mockito.internal.stubbing.defaultanswers.ReturnsSmartNulls#60,0.521739130434761
+org.mockito.internal.stubbing.defaultanswers.ReturnsSmartNulls#59,0.5205949656750355
+org.mockito.internal.stubbing.defaultanswers.ReturnsSmartNulls#67,0.4874141876429974
+org.mockito.internal.stubbing.defaultanswers.ReturnsSmartNulls#64,0.47826086956519376
+org.mockito.internal.stubbing.defaultanswers.ReturnsSmartNulls#68,0.3392448512585513
+org.mockito.internal.stubbing.defaultanswers.ReturnsSmartNulls#69,0.3197940503432186
+org.mockito.internal.stubbing.defaultanswers.ReturnsSmartNulls#46,0.14622314622312754
+org.mockito.internal.stubbing.defaultanswers.ReturnsSmartNulls#75,0.14553014553012686
+org.mockito.internal.stubbing.defaultanswers.ReturnsSmartNulls#56,0.14483714483712617
+org.mockito.internal.stubbing.defaultanswers.ReturnsSmartNulls#55,0.1441441441441255

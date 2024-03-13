@@ -1,0 +1,5 @@
+com.fasterxml.jackson.databind.introspect.ObjectIdInfo#61
+com.fasterxml.jackson.databind.ser.impl.WritableObjectId#59
+com.fasterxml.jackson.databind.deser.impl.ReadableObjectId#91
+com.fasterxml.jackson.databind.ser.impl.WritableObjectId#34
+com.fasterxml.jackson.databind.deser.impl.ReadableObjectId#88

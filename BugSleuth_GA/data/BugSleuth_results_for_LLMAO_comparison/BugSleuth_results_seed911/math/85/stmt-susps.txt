@@ -1,0 +1,5 @@
+org.apache.commons.math.analysis.solvers.UnivariateRealSolverUtils#199
+org.apache.commons.math.analysis.solvers.UnivariateRealSolverUtils#186
+org.apache.commons.math.analysis.solvers.UnivariateRealSolverUtils#198
+org.apache.commons.math.analysis.solvers.UnivariateRealSolverUtils#195
+org.apache.commons.math.analysis.solvers.UnivariateRealSolverUtils#188

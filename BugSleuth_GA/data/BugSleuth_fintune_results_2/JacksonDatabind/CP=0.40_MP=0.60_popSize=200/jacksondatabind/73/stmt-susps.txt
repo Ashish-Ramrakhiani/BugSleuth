@@ -1,0 +1,5 @@
+com.fasterxml.jackson.databind.ObjectMapper#696
+com.fasterxml.jackson.databind.deser.BeanDeserializerBase#678
+com.fasterxml.jackson.databind.introspect.POJOPropertyBuilder#657
+com.fasterxml.jackson.databind.introspect.POJOPropertyBuilder#658
+com.fasterxml.jackson.databind.deser.BeanDeserializerBase#687

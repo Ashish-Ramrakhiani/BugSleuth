@@ -1,0 +1,5 @@
+com.fasterxml.jackson.databind.type.ReferenceType#166
+com.fasterxml.jackson.databind.deser.std.UUIDDeserializer#114
+com.fasterxml.jackson.databind.type.ReferenceType#167
+com.fasterxml.jackson.databind.type.ReferenceType#168
+com.fasterxml.jackson.databind.type.TypeFactory#415

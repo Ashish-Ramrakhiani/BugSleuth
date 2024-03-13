@@ -1,0 +1,5 @@
+org.mockito.internal.invocation.Invocation#157
+org.mockito.internal.invocation.Invocation#58
+org.mockito.internal.invocation.Invocation#169
+org.mockito.internal.invocation.Invocation#50
+org.mockito.internal.invocation.Invocation#168

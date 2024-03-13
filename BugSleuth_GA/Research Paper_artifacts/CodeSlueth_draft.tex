@@ -1,0 +1,134 @@
+ \documentclass[10pt,conference]{IEEEtran}
+\IEEEoverridecommandlockouts
+% The preceding line is only needed to identify funding in the first footnote. If that is unneeded, please comment it out.
+\usepackage{cite}
+\usepackage{amsmath,amssymb,amsfonts}
+\usepackage{algorithmic}
+\usepackage{graphicx}
+\usepackage{textcomp}
+\usepackage{xcolor}
+\def\BibTeX{{\rm B\kern-.05em{\sc i\kern-.025em b}\kern-.08em
+		T\kern-.1667em\lower.7ex\hbox{E}\kern-.125emX}}
+\begin{document}
+	
+	\title{Unveiling Simplicity in Complexity\\
+		
+	}
+	
+	\author{\IEEEauthorblockN{1\textsuperscript{st} Given Name Surname}
+		\IEEEauthorblockA{\textit{dept. name of organization (of Aff.)} \\
+			\textit{name of organization (of Aff.)}\\
+			City, Country \\
+			email address or ORCID}
+		
+	}
+	
+	\maketitle
+	
+	\begin{abstract}
+		This document is a model and instructions for \LaTeX.
+		This and the IEEEtran cls file define the components of your paper [title, text, heads, etc.]. *CRITICAL: Do Not Use Symbols, Special Characters, Footnotes, 
+		or Math in Paper Title or Abstract.
+	\end{abstract}
+	
+	\begin{IEEEkeywords}
+		component, formatting, style, styling, insert
+	\end{IEEEkeywords}
+	
+	\section{Introduction}
+	Software practitioners invest a substantial amount of their time in the arduous process of debugging their code, primarily due to the time-consuming task of pinpointing faults within the software. Despite the existence of automated fault localization techniques for many years, the software industry has shown reluctance in embracing these methods, largely attributable to their suboptimal performance in accurately identifying and isolating faults.
+	
+	Effective fault localization is crucial for software development, yet existing techniques often rely on bug reports or test suites, which may not be readily available in practical scenarios. Recent research has demonstrated that combining fault localization techniques with supervised machine learning algorithms can enhance performance. However, these supervised learning approaches face challenges in generalizability and require large labeled datasets for training.
+	
+	Unsupervised techniques, exemplified by [RAFL], have shown superior fault localization performance compared to state-of-the-art supervised techniques. Nonetheless, their reliance on the availability of underlying fault localization technique results poses challenges, especially in real-world industry scenarios where such information may not be accessible.
+	
+	This research addresses these challenges by proposing innovative technology aimed at automating the fault localization process, thereby increasing productivity for software practitioners. The goal is to reduce reliance on manual bug localization, which is time-consuming and diverts resources from potentially more impactful activities.
+	
+	
+	\section{Background}
+	There are several families under which multiple standalone techniques have been developed.
+	Spectrum-Based Fault Localization (SBFL) requires information about the coverage of a program during its runtime, typically measured in terms of code coverage. This coverage information is obtained by executing a set of tests on the program. The tests should be designed to cover various parts of the code, providing insights into the execution behavior of different program elements, such as statements or methods. Essentially, SBFL needs the execution data from both passed and failed test cases inorder to compute the suspiciousness values of code elements for fault localization.
+	Mutation-Based Fault Localization (MBFL) requires information from mutation analysis rather than regular program execution. Specifically, it relies on mutated versions of the original program created by introducing changes (mutations) to expressions or statements. These mutants are then subjected to a set of test cases. MBFL analyzes how these mutations impact the results of both failed and passed test cases.
+	
+	In contrast to Spectrum-Based Fault Localization (SBFL), MBFL considers whether the execution of a statement with mutations affects the test outcomes. Therefore, MBFL requires the ability to generate and execute these mutated versions of the program, along with the corresponding test cases to evaluate the impact of mutations on the program's behavior. The goal is to identify which program statements, when altered, have a higher impact on failed tests compared to passed tests.
+	In Predicate Switching as the name suggests, synonymous with a conditional expression, dictates the execution of distinct branches. If altering the assessed result of a predicate can transform a failed test case into a successful one, that predicate is deemed critical and may be the underlying cause of the fault. Information Retrieval Fault Localization is an approach in fault localization where the input includes a bug report and the source code. The technique calculates a similarity score between the bug report (acting as a query) and different parts of the source code (considered as documents). Based on these similarity scores, the approach generates a probable list of code elements that are likely to be associated with the reported bug, aiming to pinpoint potential faults in the software.
+	Recent research\cite{zou2019empirical,motwani2023better,li2019deepfl} highlight the substantial improvement in the ranked list generated when combining the ranked lists from different standalone fault localization techniques. Learning to rank is one such approach designed for ranking tasks. These techniques \cite{li2019deepfl,zou2019empirical} enhance ranking performance by automatically creating models that learn from suspiciousness values from various fault localization techniques along with other features like code complexity.The effectiveness of this approach hinges on a training process, the impact of which on its overall performance remains uncertain. Generating suitable training data presents challenges due to the demanding manual efforts involved, and the success of trained models is intricately tied to the quality of the data and features they are trained on.
+	To avoid the dependency of training data,\cite{motwani2023better} proposed a novel method for combining different fault localization (FL) techniques, framing it as a rank aggregation (RA) problem. In this context, rank aggregation involves merging multiple ranked lists (base rankers) into a single ranked list (aggregated ranker). Their technique combines multiple ordered lists of suspicious statements from various FL techniques by minimizing the weighted sum of distances, where the importance weights and distance metric are key factors in the optimization process. While their approach has shown prominent results, their technique was to better improve automatic program repair. Our approach builds upon this by exploring search based techniques generate more effective ranked list.
+
+\section{Approach}
+\section{Evaluation}
+In this work we aim to answer the following Research Questions (RQs)
+{\newline}
+	Research Questions:
+	RQ1: How effective are rank aggregation algorithms for localizing defects
+	
+	\begin{itemize}
+		\item Genetic Algorithm
+		\item Cross Entropy Monte Carlo Algorithm
+	\end{itemize}
+	RQ2: How efficient is using rank aggregation for fault localization
+	{\newline}
+	RQ3: How do these rank aggregation algorithms compare against state-of-the-art fault
+	localization techniques
+	\begin{table}[htbp]
+		\caption{Table Type Styles}
+		\begin{center}
+			\begin{tabular}{|c|c|c|c|}
+				\hline
+				\textbf{Table}&\multicolumn{3}{|c|}{\textbf{Table Column Head}} \\
+				\cline{2-4} 
+				\textbf{Head} & \textbf{\textit{Table column subhead}}& \textbf{\textit{Subhead}}& \textbf{\textit{Subhead}} \\
+				\hline
+				copy& More table copy$^{\mathrm{a}}$& &  \\
+				\hline
+				\multicolumn{4}{l}{$^{\mathrm{a}}$Sample of a Table footnote.}
+			\end{tabular}
+			\label{tab1}
+		\end{center}
+	\end{table}
+	
+		\section{Related Work}
+	\subsection{Improving Fault localization}
+	
+	Automated fault localization techniques leverage both static and run-time information of a program to identify potential program elements responsible for faults. SBFL computes a suspiciousness score for each program element by utilizing test coverage information whereas the MBFL techniques utilizes mutation analysis by analyzing the impact of artificially introduced program mutations on test results . On the other hand, Deep Learning-Based Fault Localization (DLFL) employs neural networks to create a fault localization model, utilizing the trace matrix and test results.
+	
+	The TRAIN \cite{HU2024111900} approach improves upon SBFL by identifying and excluding test cases that execute faulty statement(s) but lead to a correct output, thereby optimizing the trace matrix. Mutation-Spectrum Fault Localization \cite{dutta2021msfl} (MSFL) \cite{dutta2021msfl} combines mutation-based testing with SBFL. MSFL generates spectra for each mutant and the faulty program to combine them with SBFL techniques such as Tarantula, Barinel, Ochiai, and DStar to produce statement ranking sequences. Bug localization is then performed based on the similarity between the statement ranking sequence of the faulty program and mutants. However, MSFL assumes the thorough testing and fault-free nature of the original program thus it's effectiveness is compromised if no mutants are available for the faulty line, leading to a lower rank assigned to the faulty statement. WEGAT \cite{yanimproving}  represents the coverage matrix using a weighted execution graph by applying predicate weighted sequences combined with Abstract Syntax Tree (AST) information and feeds it to a Graph Attention Network for fault localization. However, the necessity for program instrumentation to collect predicate sequences incurs a time overhead, potentially hindering practitioner productivity and diverging from our goal of productivity enhancement.
+	
+	Recently, the potential of using LLMs for various code related tasks, especially fault localization, has been explored.LLMAO \cite{yang2024large} is a language model-based approach for fault localization that does not require test cases and locates buggy lines of code. It leverages large language models and bidirectional adapter layers to achieve high fault localization performance to detect general logic as well as security bugs in the code.
+	Existing research has validated the effectiveness of integrating results from multiple fault localization (FL) techniques, revealing superior fault localization performance compared to standalone approaches. Noteworthy combination techniques, including CombineFL\cite{zou2019empirical}, DeepFL\cite{li2019deepfl} and Fluccs\cite{sohn2017fluccs} leverage learning to rank methodologies, notably RankSVM, to merge outputs from diverse FL techniques. However, these supervised approaches require labeled training datasets. The unavailability of such datasets, and even if one is willing to create them, introduces a substantial overhead, thereby contradicting the primary goal of enhanced practitioner productivity. Consequently, the practical application of these methodologies in real-world software industry settings is deemed unfeasible.
+	
+	Recent research introduces an unsupervised fault localization technique known as SBIR \cite{motwani2023better} to combine SBFL and Blues(IRFL) results to acheive better automatic program repair. SBIR utilises RAFL (Rank Aggregation for Fault Localization) technique that employs the Cross Entropy Monte Carlo Algorithm and the Spearman footrule distance to merge top-k ranked lists of suspicious statements and notably yields superior results when compared to the RankSVM approach employed by many state-of-the-art supervised models. This unsupervised technique addresses the challenges associated with labeled training datasets, making it a more viable solution for practical implementation in real-world software industry scenarios, however, the finetuning of parameters for RAFL to achieve optimal fault localization results for practitioners remains unexplored.
+	
+	%\begin{figure}[htbp]
+	%	\centerline{\includegraphics{fig1.png}}
+	%	\caption{Example of a figure caption.}
+	%	\label{fig}
+	%\end{figure}
+	
+	Figure Labels: Use 8 point Times New Roman for Figure labels. Use words 
+	rather than symbols or abbreviations when writing Figure axis labels to 
+	avoid confusing the reader. As an example, write the quantity 
+	``Magnetization'', or ``Magnetization, M'', not just ``M''. If including 
+	units in the label, present them within parentheses. Do not label axes only 
+	with units. In the example, write ``Magnetization (A/m)'' or ``Magnetization 
+	\{A[m(1)]\}'', not just ``A/m''. Do not label axes with a ratio of 
+	quantities and units. For example, write ``Temperature (K)'', not 
+	``Temperature/K''.
+	
+	\section*{Acknowledgment}
+	
+	The preferred spelling of the word ``acknowledgment'' in America is without 
+	an ``e'' after the ``g''. Avoid the stilted expression ``one of us (R. B. 
+	G.) thanks $\ldots$''. Instead, try ``R. B. G. thanks$\ldots$''. Put sponsor 
+	acknowledgments in the unnumbered footnote on the first page.
+	
+	%\section*{References}
+	\bibliographystyle{IEEEtran}
+	\bibliography{references}  
+	% Replace 'references' with the actual name of your .bib file (without the extension)
+	
+	\vspace{12pt}
+	\color{red}
+	IEEE conference templates contain guidance text for composing and formatting conference papers. Please ensure that all template text is removed from your conference paper prior to submission to the conference. Failure to remove the template text from your paper may result in your paper not being published.
+	
+\end{document}

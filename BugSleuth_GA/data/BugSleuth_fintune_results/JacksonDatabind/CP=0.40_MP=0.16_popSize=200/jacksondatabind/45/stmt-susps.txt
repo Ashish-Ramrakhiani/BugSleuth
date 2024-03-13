@@ -1,0 +1,5 @@
+com.fasterxml.jackson.databind.ser.std.DateTimeSerializerBase#63
+com.fasterxml.jackson.databind.ser.std.BeanSerializerBase#400
+com.fasterxml.jackson.databind.ser.std.DateTimeSerializerBase#59
+com.fasterxml.jackson.databind.ser.std.BeanSerializerBase#511
+com.fasterxml.jackson.databind.ser.std.BeanSerializerBase#403

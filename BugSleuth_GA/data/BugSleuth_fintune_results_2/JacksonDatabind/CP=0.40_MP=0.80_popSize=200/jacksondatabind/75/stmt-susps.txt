@@ -1,0 +1,5 @@
+com.fasterxml.jackson.databind.ser.std.EnumSerializer#106
+com.fasterxml.jackson.databind.ser.std.EnumSerializer#232
+com.fasterxml.jackson.databind.ser.std.EnumSerializer#233
+com.fasterxml.jackson.databind.ser.std.EnumSerializer#236
+com.fasterxml.jackson.databind.ser.std.EnumSerializer#172

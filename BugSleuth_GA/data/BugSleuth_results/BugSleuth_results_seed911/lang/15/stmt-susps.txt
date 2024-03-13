@@ -1,0 +1,5 @@
+org.apache.commons.lang3.reflect.TypeUtils#615
+org.apache.commons.lang3.math.Fraction#862
+org.apache.commons.lang3.reflect.TypeUtils#613
+org.apache.commons.lang3.reflect.TypeUtils#711
+org.apache.commons.lang3.reflect.TypeUtils#676

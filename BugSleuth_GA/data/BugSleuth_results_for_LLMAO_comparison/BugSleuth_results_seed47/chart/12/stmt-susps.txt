@@ -1,0 +1,5 @@
+org.jfree.chart.plot.MultiplePiePlot#330
+org.jfree.chart.plot.MultiplePiePlot#166
+org.jfree.chart.plot.MultiplePiePlot#136
+org.jfree.chart.plot.MultiplePiePlot#155
+org.jfree.chart.plot.MultiplePiePlot#565

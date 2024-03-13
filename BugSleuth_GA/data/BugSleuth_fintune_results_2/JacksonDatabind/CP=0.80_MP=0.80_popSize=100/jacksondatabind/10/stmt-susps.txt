@@ -1,0 +1,5 @@
+com.fasterxml.jackson.databind.introspect.POJOPropertyBuilder#709
+com.fasterxml.jackson.databind.introspect.POJOPropertyBuilder#708
+com.fasterxml.jackson.databind.ser.AnyGetterWriter#50
+com.fasterxml.jackson.databind.ser.BeanSerializerBuilder#179
+com.fasterxml.jackson.databind.introspect.POJOPropertyBuilder#917

@@ -1,0 +1,5 @@
+com.fasterxml.jackson.databind.introspect.AnnotationMap#93
+com.fasterxml.jackson.databind.introspect.BasicBeanDescription#491
+com.fasterxml.jackson.databind.JsonMappingException#326
+com.fasterxml.jackson.databind.introspect.BasicBeanDescription#490
+com.fasterxml.jackson.databind.introspect.AnnotatedConstructor#70

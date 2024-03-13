@@ -1,0 +1,5 @@
+org.apache.commons.math3.distribution.HypergeometricDistribution#321
+org.apache.commons.math3.distribution.HypergeometricDistribution#104
+org.apache.commons.math3.distribution.HypergeometricDistribution#308
+org.apache.commons.math3.distribution.HypergeometricDistribution#178
+org.apache.commons.math3.distribution.HypergeometricDistribution#281

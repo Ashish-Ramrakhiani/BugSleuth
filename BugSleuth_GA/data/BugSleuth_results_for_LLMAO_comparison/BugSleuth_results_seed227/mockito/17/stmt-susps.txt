@@ -1,0 +1,5 @@
+org.mockito.internal.creation.jmock.SearchingClassLoader#27
+org.mockito.internal.matchers.apachecommons.EqualsBuilder#364
+org.mockito.internal.creation.MockSettingsImpl#37
+org.mockito.internal.creation.MockSettingsImpl#30
+org.mockito.internal.matchers.apachecommons.EqualsBuilder#363

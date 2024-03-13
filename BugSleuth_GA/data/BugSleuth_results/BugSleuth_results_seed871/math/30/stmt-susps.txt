@@ -1,0 +1,5 @@
+org.apache.commons.math3.util.FastMath#3538
+org.apache.commons.math3.util.FastMath#3539
+org.apache.commons.math3.stat.inference.MannWhitneyUTest#224
+org.apache.commons.math3.distribution.NormalDistribution#141
+org.apache.commons.math3.stat.inference.MannWhitneyUTest#44

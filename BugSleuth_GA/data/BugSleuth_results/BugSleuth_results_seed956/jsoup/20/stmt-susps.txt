@@ -1,0 +1,5 @@
+org.jsoup.nodes.Document#51
+org.jsoup.helper.HttpConnection#186
+org.jsoup.nodes.Attributes#104
+org.jsoup.safety.Cleaner#62
+org.jsoup.safety.Cleaner#89

@@ -1,0 +1,5 @@
+com.fasterxml.jackson.databind.ext.Java7SupportImpl#79
+com.fasterxml.jackson.databind.ext.Java7SupportImpl#78
+com.fasterxml.jackson.databind.ext.Java7SupportImpl#77
+com.fasterxml.jackson.databind.deser.BasicDeserializerFactory#1679
+com.fasterxml.jackson.databind.deser.BasicDeserializerFactory#1676

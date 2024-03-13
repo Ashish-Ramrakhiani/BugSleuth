@@ -1,0 +1,5 @@
+org.apache.commons.math.stat.descriptive.SummaryStatistics#250
+org.apache.commons.math.stat.descriptive.SummaryStatistics#384
+org.apache.commons.math.stat.descriptive.SummaryStatistics#637
+org.apache.commons.math.stat.descriptive.SummaryStatistics#636
+org.apache.commons.math.stat.descriptive.SummaryStatistics#252

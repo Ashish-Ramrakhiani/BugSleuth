@@ -1,0 +1,5 @@
+org.apache.commons.math.optimization.linear.SimplexTableau#214
+org.apache.commons.math.optimization.linear.SimplexTableau#347
+org.apache.commons.math.optimization.linear.SimplexTableau#574
+org.apache.commons.math.optimization.linear.SimplexTableau#137
+org.apache.commons.math.optimization.linear.SimplexTableau#413

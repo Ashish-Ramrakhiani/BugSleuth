@@ -1,0 +1,5 @@
+org.mockito.internal.stubbing.defaultanswers.ReturnsSmartNulls#73
+org.mockito.internal.stubbing.defaultanswers.ReturnsSmartNulls#56
+org.mockito.internal.stubbing.defaultanswers.ReturnsSmartNulls#74
+org.mockito.internal.stubbing.defaultanswers.ReturnsSmartNulls#51
+org.mockito.internal.stubbing.defaultanswers.ReturnsSmartNulls#75

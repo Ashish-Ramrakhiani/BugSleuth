@@ -1,0 +1,5 @@
+org.apache.commons.math.stat.correlation.PearsonsCorrelation#97
+org.apache.commons.math.stat.correlation.PearsonsCorrelation#80
+org.apache.commons.math.stat.correlation.PearsonsCorrelation#175
+org.apache.commons.math.stat.correlation.PearsonsCorrelation#68
+org.apache.commons.math.stat.correlation.PearsonsCorrelation#120

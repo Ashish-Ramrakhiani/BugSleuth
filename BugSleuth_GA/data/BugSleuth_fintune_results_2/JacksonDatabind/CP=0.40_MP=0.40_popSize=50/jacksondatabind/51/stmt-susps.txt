@@ -1,0 +1,5 @@
+com.fasterxml.jackson.databind.ObjectMapper#686
+com.fasterxml.jackson.databind.deser.BeanDeserializer#790
+com.fasterxml.jackson.databind.ObjectMapper#687
+com.fasterxml.jackson.databind.deser.impl.FieldProperty#104
+com.fasterxml.jackson.databind.deser.impl.FieldProperty#105

@@ -1,0 +1,5 @@
+org.joda.time.chrono.GJChronology#199
+org.joda.time.chrono.GJChronology#978
+org.joda.time.chrono.GJChronology#214
+org.joda.time.chrono.GJChronology#976
+org.joda.time.chrono.GJChronology#975

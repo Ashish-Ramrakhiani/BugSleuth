@@ -1,0 +1,5 @@
+org.apache.commons.math3.stat.inference.MannWhitneyUTest#220
+org.apache.commons.math3.stat.inference.MannWhitneyUTest#229
+org.apache.commons.math3.stat.inference.MannWhitneyUTest#231
+org.apache.commons.math3.stat.inference.MannWhitneyUTest#129
+org.apache.commons.math3.stat.inference.MannWhitneyUTest#44

@@ -1,0 +1,13 @@
+org.mockito.internal.matchers.Equality#10,0
+org.mockito.internal.matchers.Equality#13,0.06119900613621046
+org.mockito.internal.matchers.Equality#14,0.25
+org.mockito.internal.matchers.Equality#15,0.06237828615518053
+org.mockito.internal.matchers.Equality#16,0.5
+org.mockito.internal.matchers.Equality#18,0.06237828615518053
+org.mockito.internal.matchers.Equality#23,0.5
+org.mockito.internal.matchers.Equality#24,0.5
+org.mockito.internal.matchers.Equality#28,0.5
+org.mockito.internal.matchers.Equality#32,0.5
+org.mockito.internal.matchers.Equality#33,0.5
+org.mockito.internal.matchers.Equality#35,0.5
+org.mockito.internal.matchers.Equality#39,0.06237828615518053

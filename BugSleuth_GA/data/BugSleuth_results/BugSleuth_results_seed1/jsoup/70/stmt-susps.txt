@@ -1,0 +1,5 @@
+org.jsoup.safety.Whitelist#110
+org.jsoup.Jsoup#73
+org.jsoup.Connection#334
+org.jsoup.Connection#638
+org.jsoup.parser.Tag#252

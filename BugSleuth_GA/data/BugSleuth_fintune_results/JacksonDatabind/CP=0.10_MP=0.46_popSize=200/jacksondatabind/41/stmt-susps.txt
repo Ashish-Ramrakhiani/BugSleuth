@@ -1,0 +1,5 @@
+com.fasterxml.jackson.databind.ObjectMapper#596
+com.fasterxml.jackson.databind.type.TypeFactory#1109
+com.fasterxml.jackson.databind.type.TypeFactory#610
+com.fasterxml.jackson.databind.ObjectMapper#1462
+com.fasterxml.jackson.databind.ObjectMapper#594

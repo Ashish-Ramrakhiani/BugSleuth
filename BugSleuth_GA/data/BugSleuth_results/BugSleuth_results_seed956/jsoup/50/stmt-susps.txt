@@ -1,0 +1,5 @@
+org.jsoup.parser.TokeniserState#22
+org.jsoup.helper.DataUtil#24
+org.jsoup.parser.TokeniserState#21
+org.jsoup.helper.DataUtil#22
+org.jsoup.helper.DataUtil#88

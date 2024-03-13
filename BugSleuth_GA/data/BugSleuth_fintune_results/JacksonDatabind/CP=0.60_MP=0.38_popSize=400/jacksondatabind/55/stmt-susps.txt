@@ -1,0 +1,5 @@
+com.fasterxml.jackson.databind.ser.std.StdKeySerializers#79
+com.fasterxml.jackson.databind.ser.std.StdKeySerializers#138
+com.fasterxml.jackson.databind.deser.BasicDeserializerFactory#1910
+com.fasterxml.jackson.databind.ser.std.StdKeySerializers#140
+com.fasterxml.jackson.databind.ser.std.EnumSerializer#174

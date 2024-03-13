@@ -1,0 +1,5 @@
+com.fasterxml.jackson.databind.util.ClassUtil#604
+com.fasterxml.jackson.databind.ObjectWriter#1064
+com.fasterxml.jackson.databind.util.ClassUtil#603
+com.fasterxml.jackson.databind.ObjectWriter#1067
+com.fasterxml.jackson.databind.ObjectWriter#925

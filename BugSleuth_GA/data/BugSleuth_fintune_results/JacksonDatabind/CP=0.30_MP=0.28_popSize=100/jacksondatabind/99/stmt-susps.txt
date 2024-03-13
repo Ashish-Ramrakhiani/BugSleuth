@@ -1,0 +1,5 @@
+com.fasterxml.jackson.databind.type.TypeFactory#456
+com.fasterxml.jackson.databind.type.ReferenceType#167
+com.fasterxml.jackson.databind.type.ReferenceType#166
+com.fasterxml.jackson.databind.type.ReferenceType#168
+com.fasterxml.jackson.databind.type.ReferenceType#169

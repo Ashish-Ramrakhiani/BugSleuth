@@ -1,0 +1,5 @@
+com.fasterxml.jackson.databind.SerializerProvider#715
+com.fasterxml.jackson.databind.ObjectMapper#3616
+com.fasterxml.jackson.databind.deser.std.UUIDDeserializer#65
+com.fasterxml.jackson.databind.ObjectMapper#3614
+com.fasterxml.jackson.databind.introspect.AnnotatedConstructor#202

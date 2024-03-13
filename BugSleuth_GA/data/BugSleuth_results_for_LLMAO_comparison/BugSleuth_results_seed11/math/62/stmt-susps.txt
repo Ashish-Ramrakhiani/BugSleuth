@@ -1,0 +1,5 @@
+org.apache.commons.math.optimization.univariate.MultiStartUnivariateRealOptimizer#82
+org.apache.commons.math.optimization.univariate.MultiStartUnivariateRealOptimizer#89
+org.apache.commons.math.optimization.univariate.MultiStartUnivariateRealOptimizer#171
+org.apache.commons.math.optimization.univariate.MultiStartUnivariateRealOptimizer#170
+org.apache.commons.math.optimization.univariate.MultiStartUnivariateRealOptimizer#153

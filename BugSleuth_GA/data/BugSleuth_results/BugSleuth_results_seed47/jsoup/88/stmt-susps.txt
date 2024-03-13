@@ -1,0 +1,5 @@
+org.jsoup.Jsoup#73
+org.jsoup.helper.HttpConnection#375
+org.jsoup.helper.HttpConnection#366
+org.jsoup.safety.Whitelist#496
+org.jsoup.helper.Validate#103

@@ -1,0 +1,5 @@
+com.google.javascript.jscomp.CodeGenerator#1177
+com.google.javascript.jscomp.CodeGenerator#1187
+com.google.javascript.jscomp.CodeGenerator#997
+com.google.javascript.jscomp.CodeGenerator#1165
+com.google.javascript.rhino.TokenStream#409

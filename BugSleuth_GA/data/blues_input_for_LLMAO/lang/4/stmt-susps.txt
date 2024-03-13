@@ -1,0 +1,13 @@
+org.apache.commons.lang3.text.translate.LookupTranslator#75,0.9828344149047552
+org.apache.commons.lang3.text.translate.LookupTranslator#69,0.9813690600795514
+org.apache.commons.lang3.text.translate.LookupTranslator#77,0.979694368850747
+org.apache.commons.lang3.text.translate.LookupTranslator#46,0.9788570232363448
+org.apache.commons.lang3.text.translate.LookupTranslator#45,0.9782290140255432
+org.apache.commons.lang3.text.translate.LookupTranslator#49,0.9765543227967388
+org.apache.commons.lang3.text.translate.LookupTranslator#50,0.9740422859535323
+org.apache.commons.lang3.text.translate.LookupTranslator#31,0.9692275486707197
+org.apache.commons.lang3.text.translate.LookupTranslator#51,0.9690182122671192
+org.apache.commons.lang3.text.translate.LookupTranslator#78,0.9688088758635186
+org.apache.commons.lang3.text.translate.LookupTranslator#79,0.9685995394599181
+org.apache.commons.lang3.text.translate.LookupTranslator#76,0.9683902030563175
+org.apache.commons.lang3.text.translate.LookupTranslator#71,0.968180866652717

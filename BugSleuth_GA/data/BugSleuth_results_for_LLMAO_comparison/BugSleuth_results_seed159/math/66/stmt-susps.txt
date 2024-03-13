@@ -1,0 +1,5 @@
+org.apache.commons.math.optimization.univariate.BrentOptimizer#66
+org.apache.commons.math.optimization.univariate.BrentOptimizer#107
+org.apache.commons.math.optimization.general.PowellOptimizer#180
+org.apache.commons.math.optimization.univariate.BrentOptimizer#182
+org.apache.commons.math.analysis.solvers.UnivariateRealSolverFactoryImpl#38

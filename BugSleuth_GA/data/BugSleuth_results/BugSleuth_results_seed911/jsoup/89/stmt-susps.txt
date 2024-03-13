@@ -1,0 +1,5 @@
+org.jsoup.helper.Validate#103
+org.jsoup.nodes.Attribute#89
+org.jsoup.helper.Validate#101
+org.jsoup.nodes.Attribute#63
+org.jsoup.helper.Validate#91

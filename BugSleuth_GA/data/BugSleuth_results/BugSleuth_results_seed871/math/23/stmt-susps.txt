@@ -1,0 +1,5 @@
+org.apache.commons.math3.util.MathArrays#145
+org.apache.commons.math3.util.MathArrays#143
+org.apache.commons.math3.optimization.univariate.BrentOptimizer#148
+org.apache.commons.math3.util.MathArrays#147
+org.apache.commons.math3.optimization.univariate.BrentOptimizer#160

@@ -1,0 +1,12 @@
+org.apache.commons.math3.optim.nonlinear.vector.Weight#41,0.10721125348377948
+org.apache.commons.math3.optim.nonlinear.vector.Weight#42,0.10721125348377948
+org.apache.commons.math3.optim.nonlinear.vector.Weight#43,0.10721125348377948
+org.apache.commons.math3.optim.nonlinear.vector.Weight#44,0.0
+org.apache.commons.math3.optim.nonlinear.vector.Weight#45,0.0
+org.apache.commons.math3.optim.nonlinear.vector.Weight#47,0.0
+org.apache.commons.math3.optim.nonlinear.vector.Weight#54,0
+org.apache.commons.math3.optim.nonlinear.vector.Weight#55,0
+org.apache.commons.math3.optim.nonlinear.vector.Weight#56,0
+org.apache.commons.math3.optim.nonlinear.vector.Weight#60,0
+org.apache.commons.math3.optim.nonlinear.vector.Weight#61,0
+org.apache.commons.math3.optim.nonlinear.vector.Weight#69,0.0

@@ -1,0 +1,5 @@
+com.fasterxml.jackson.databind.ObjectMapper#460
+com.fasterxml.jackson.databind.ser.std.StdKeySerializers#38
+com.fasterxml.jackson.databind.ser.std.StdKeySerializer#34
+com.fasterxml.jackson.databind.ser.std.StdKeySerializer#32
+com.fasterxml.jackson.databind.ObjectMapper#649

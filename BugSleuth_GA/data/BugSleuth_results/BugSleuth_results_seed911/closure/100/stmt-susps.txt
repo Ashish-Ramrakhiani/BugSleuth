@@ -1,0 +1,5 @@
+com.google.javascript.jscomp.parsing.TypeSafeDispatcher#254
+com.google.javascript.jscomp.CompilerOptions#590
+com.google.javascript.jscomp.parsing.IRFactory#700
+com.google.javascript.jscomp.CompilerOptions#814
+com.google.javascript.jscomp.parsing.IRFactory#703

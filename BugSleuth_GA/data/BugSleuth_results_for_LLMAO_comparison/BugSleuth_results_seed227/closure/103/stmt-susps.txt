@@ -1,0 +1,5 @@
+com.google.javascript.jscomp.CompilerOptions#587
+com.google.javascript.jscomp.CompilerOptions#561
+com.google.javascript.jscomp.CreateSyntheticBlocks#33
+com.google.javascript.jscomp.CreateSyntheticBlocks#77
+com.google.javascript.jscomp.CompilerOptions#157

@@ -1,0 +1,5 @@
+com.fasterxml.jackson.databind.util.ClassUtil#1167
+com.fasterxml.jackson.databind.type.ReferenceType#146
+com.fasterxml.jackson.databind.type.ReferenceType#149
+com.fasterxml.jackson.databind.ser.std.ReferenceTypeSerializer#247
+com.fasterxml.jackson.databind.ser.PropertyBuilder#109

@@ -1,0 +1,5 @@
+org.mockito.internal.creation.jmock.SearchingClassLoader#27
+org.mockito.internal.creation.MockSettingsImpl#22
+org.mockito.internal.creation.MockSettingsImpl#38
+org.mockito.internal.creation.MockSettingsImpl#37
+org.mockito.internal.creation.jmock.SearchingClassLoader#40

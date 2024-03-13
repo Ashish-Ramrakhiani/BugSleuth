@@ -1,0 +1,14 @@
+org.mockito.internal.creation.DelegatingMethod#16,0.06632365324280728
+org.mockito.internal.creation.DelegatingMethod#17,0.06632365324280728
+org.mockito.internal.creation.DelegatingMethod#18,0.06632365324280728
+org.mockito.internal.creation.DelegatingMethod#19,0.06632365324280728
+org.mockito.internal.creation.DelegatingMethod#12,0.06686507980379898
+org.mockito.internal.creation.DelegatingMethod#22,0
+org.mockito.internal.creation.DelegatingMethod#26,0.04557239513497755
+org.mockito.internal.creation.DelegatingMethod#30,0.0
+org.mockito.internal.creation.DelegatingMethod#34,0.0
+org.mockito.internal.creation.DelegatingMethod#38,0.047101217405573256
+org.mockito.internal.creation.DelegatingMethod#42,0.04539596243567375
+org.mockito.internal.creation.DelegatingMethod#46,0.08006407690254357
+org.mockito.internal.creation.DelegatingMethod#55,0.5163977794943222
+org.mockito.internal.creation.DelegatingMethod#60,0

@@ -1,0 +1,5 @@
+com.fasterxml.jackson.databind.deser.impl.InnerClassProperty#84
+com.fasterxml.jackson.databind.deser.SettableBeanProperty#413
+com.fasterxml.jackson.databind.util.ClassUtil#779
+com.fasterxml.jackson.databind.deser.impl.InnerClassProperty#44
+com.fasterxml.jackson.databind.deser.impl.InnerClassProperty#165

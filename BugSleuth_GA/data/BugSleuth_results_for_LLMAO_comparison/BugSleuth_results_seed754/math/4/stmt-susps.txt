@@ -1,0 +1,5 @@
+org.apache.commons.math3.geometry.euclidean.threed.SubLine#117
+org.apache.commons.math3.geometry.euclidean.threed.SubLine#178
+org.apache.commons.math3.geometry.euclidean.threed.SubLine#57
+org.apache.commons.math3.geometry.euclidean.threed.SubLine#116
+org.apache.commons.math3.geometry.euclidean.threed.SubLine#113

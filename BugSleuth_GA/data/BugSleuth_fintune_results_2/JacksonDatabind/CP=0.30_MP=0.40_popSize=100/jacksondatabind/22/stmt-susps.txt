@@ -1,0 +1,5 @@
+com.fasterxml.jackson.databind.ObjectMapper#3578
+com.fasterxml.jackson.databind.module.SimpleModule#101
+com.fasterxml.jackson.databind.ser.std.JsonValueSerializer#336
+com.fasterxml.jackson.databind.ObjectMapper#3546
+com.fasterxml.jackson.databind.ObjectMapper#3580

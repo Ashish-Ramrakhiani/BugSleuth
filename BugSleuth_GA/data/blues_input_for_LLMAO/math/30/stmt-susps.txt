@@ -1,0 +1,15 @@
+org.apache.commons.math3.stat.inference.MannWhitneyUTest#224,1.0
+org.apache.commons.math3.stat.inference.MannWhitneyUTest#220,0.999738219895288
+org.apache.commons.math3.stat.inference.MannWhitneyUTest#231,0.999476439790576
+org.apache.commons.math3.stat.inference.MannWhitneyUTest#45,0.999214659685864
+org.apache.commons.math3.stat.inference.MannWhitneyUTest#44,0.998952879581152
+org.apache.commons.math3.stat.inference.MannWhitneyUTest#222,0.99869109947644
+org.apache.commons.math3.stat.inference.MannWhitneyUTest#80,0.998429319371728
+org.apache.commons.math3.stat.inference.MannWhitneyUTest#129,0.998167539267016
+org.apache.commons.math3.stat.inference.MannWhitneyUTest#58,0.997905759162304
+org.apache.commons.math3.stat.inference.MannWhitneyUTest#79,0.997643979057592
+org.apache.commons.math3.stat.inference.MannWhitneyUTest#78,0.9973821989528799
+org.apache.commons.math3.stat.inference.MannWhitneyUTest#60,0.9971204188481679
+org.apache.commons.math3.stat.inference.MannWhitneyUTest#59,0.9968586387434559
+org.apache.commons.math3.stat.inference.MannWhitneyUTest#72,0.9965968586387439
+org.apache.commons.math3.stat.inference.MannWhitneyUTest#127,0.9963350785340319

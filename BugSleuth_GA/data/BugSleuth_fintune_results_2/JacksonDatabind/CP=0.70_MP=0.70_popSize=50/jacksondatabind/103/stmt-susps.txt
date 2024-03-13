@@ -1,0 +1,5 @@
+com.fasterxml.jackson.databind.type.TypeFactory#192
+com.fasterxml.jackson.databind.util.TokenBuffer#1426
+com.fasterxml.jackson.databind.util.EnumResolver#188
+com.fasterxml.jackson.databind.util.TokenBuffer#1425
+com.fasterxml.jackson.databind.ObjectMapper#1663

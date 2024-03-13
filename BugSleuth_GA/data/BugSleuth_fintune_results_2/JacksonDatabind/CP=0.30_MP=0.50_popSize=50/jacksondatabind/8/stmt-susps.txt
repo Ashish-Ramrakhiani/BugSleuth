@@ -1,0 +1,5 @@
+com.fasterxml.jackson.databind.introspect.AnnotationMap#93
+com.fasterxml.jackson.databind.introspect.BasicBeanDescription#491
+com.fasterxml.jackson.databind.deser.impl.CreatorCollector#297
+com.fasterxml.jackson.databind.introspect.AnnotationMap#92
+com.fasterxml.jackson.databind.introspect.BasicBeanDescription#643

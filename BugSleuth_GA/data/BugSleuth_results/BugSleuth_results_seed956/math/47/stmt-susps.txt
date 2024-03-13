@@ -1,0 +1,5 @@
+org.apache.commons.math.complex.Complex#1179
+org.apache.commons.math.dfp.Dfp#1607
+org.apache.commons.math.complex.Complex#257
+org.apache.commons.math.complex.Complex#261
+org.apache.commons.math.dfp.Dfp#1262

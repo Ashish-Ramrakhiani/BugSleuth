@@ -1,0 +1,5 @@
+org.jsoup.examples.HtmlToPlainText#34
+org.jsoup.Jsoup#73
+org.jsoup.helper.HttpConnection#960
+org.jsoup.examples.HtmlToPlainText#35
+org.jsoup.safety.Cleaner#83

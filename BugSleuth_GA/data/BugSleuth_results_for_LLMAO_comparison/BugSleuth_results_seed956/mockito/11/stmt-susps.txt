@@ -1,0 +1,5 @@
+org.mockito.internal.creation.DelegatingMethod#54
+org.mockito.internal.creation.DelegatingMethod#55
+org.mockito.internal.creation.DelegatingMethod#16
+org.mockito.internal.creation.DelegatingMethod#12
+org.mockito.internal.creation.DelegatingMethod#18
