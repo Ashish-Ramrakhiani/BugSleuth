@@ -1,0 +1,5 @@
+com.fasterxml.jackson.databind.ser.std.BeanSerializerBase#588
+com.fasterxml.jackson.databind.introspect.JacksonAnnotationIntrospector#577
+com.fasterxml.jackson.databind.ser.std.BeanSerializerBase#589
+com.fasterxml.jackson.databind.introspect.JacksonAnnotationIntrospector#566
+com.fasterxml.jackson.databind.introspect.ObjectIdInfo#68

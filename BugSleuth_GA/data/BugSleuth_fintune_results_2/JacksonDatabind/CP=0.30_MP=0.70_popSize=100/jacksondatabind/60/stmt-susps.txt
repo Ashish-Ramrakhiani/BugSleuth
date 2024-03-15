@@ -1,0 +1,5 @@
+com.fasterxml.jackson.databind.ObjectWriter#1263
+com.fasterxml.jackson.databind.deser.std.UUIDDeserializer#120
+com.fasterxml.jackson.databind.ser.std.JsonValueSerializer#226
+com.fasterxml.jackson.databind.util.TokenBuffer#898
+com.fasterxml.jackson.databind.ser.std.ByteArraySerializer#59

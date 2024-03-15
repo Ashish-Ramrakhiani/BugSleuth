@@ -1,0 +1,5 @@
+com.fasterxml.jackson.databind.type.TypeFactory#192
+com.fasterxml.jackson.databind.ser.std.SqlDateSerializer#37
+com.fasterxml.jackson.databind.ser.std.SqlDateSerializer#27
+com.fasterxml.jackson.databind.ser.std.SqlDateSerializer#31
+com.fasterxml.jackson.databind.ser.std.SqlDateSerializer#45

@@ -1,0 +1,5 @@
+org.apache.commons.math3.optim.nonlinear.scalar.noderiv.PowellOptimizer#346
+org.apache.commons.math3.optim.nonlinear.scalar.noderiv.PowellOptimizer#344
+org.apache.commons.math3.optim.nonlinear.scalar.noderiv.PowellOptimizer#253
+org.apache.commons.math3.optim.nonlinear.scalar.noderiv.PowellOptimizer#252
+org.apache.commons.math3.optim.nonlinear.scalar.noderiv.PowellOptimizer#255

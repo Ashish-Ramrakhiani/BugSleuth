@@ -1,0 +1,5 @@
+com.fasterxml.jackson.databind.type.ClassStack#67
+com.fasterxml.jackson.databind.type.ResolvedRecursiveType#81
+com.fasterxml.jackson.databind.deser.BeanDeserializerBase#1547
+com.fasterxml.jackson.databind.PropertyName#86
+com.fasterxml.jackson.databind.type.TypeFactory#1242

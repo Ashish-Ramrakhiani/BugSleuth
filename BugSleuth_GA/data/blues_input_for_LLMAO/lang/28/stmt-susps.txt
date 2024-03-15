@@ -1,0 +1,14 @@
+org.apache.commons.lang3.text.translate.NumericEntityUnescaper#63,0.9840829168980196
+org.apache.commons.lang3.text.translate.NumericEntityUnescaper#35,0.9837127521747178
+org.apache.commons.lang3.text.translate.NumericEntityUnescaper#37,0.9509531741625024
+org.apache.commons.lang3.text.translate.NumericEntityUnescaper#54,0.6970201739774202
+org.apache.commons.lang3.text.translate.NumericEntityUnescaper#53,0.6968350916157693
+org.apache.commons.lang3.text.translate.NumericEntityUnescaper#57,0.6368684064408665
+org.apache.commons.lang3.text.translate.NumericEntityUnescaper#56,0.6366833240792156
+org.apache.commons.lang3.text.translate.NumericEntityUnescaper#55,0.6364982417175646
+org.apache.commons.lang3.text.translate.NumericEntityUnescaper#52,0.6115121228946885
+org.apache.commons.lang3.text.translate.NumericEntityUnescaper#41,0.5440313111546118
+org.apache.commons.lang3.text.translate.NumericEntityUnescaper#42,0.5430528375733985
+org.apache.commons.lang3.text.translate.NumericEntityUnescaper#47,0.5420743639921852
+org.apache.commons.lang3.text.translate.NumericEntityUnescaper#38,0.541095890410972
+org.apache.commons.lang3.text.translate.NumericEntityUnescaper#48,0.5401174168297587

@@ -1,0 +1,5 @@
+com.fasterxml.jackson.databind.PropertyName#249
+com.fasterxml.jackson.databind.ObjectMapper#681
+com.fasterxml.jackson.databind.ObjectMapper#680
+com.fasterxml.jackson.databind.introspect.POJOPropertiesCollector#125
+com.fasterxml.jackson.databind.ObjectReader#279

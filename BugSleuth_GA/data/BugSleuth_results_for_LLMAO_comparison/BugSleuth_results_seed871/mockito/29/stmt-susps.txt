@@ -1,0 +1,5 @@
+org.mockito.ArgumentCaptor#123
+org.mockito.internal.configuration.DefaultAnnotationEngine#71
+org.mockito.internal.matchers.Same#37
+org.mockito.internal.configuration.DefaultAnnotationEngine#72
+org.mockito.internal.matchers.Same#27

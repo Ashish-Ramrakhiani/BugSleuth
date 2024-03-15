@@ -1,0 +1,5 @@
+org.apache.commons.lang3.text.translate.CharSequenceTranslator#84
+org.apache.commons.lang3.text.translate.CharSequenceTranslator#114
+org.apache.commons.lang3.text.translate.CharSequenceTranslator#83
+org.apache.commons.lang3.text.translate.CharSequenceTranslator#117
+org.apache.commons.lang3.text.translate.CharSequenceTranslator#95

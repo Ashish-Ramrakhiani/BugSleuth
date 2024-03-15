@@ -1,0 +1,16 @@
+org.mockito.internal.creation.instance.ConstructorInstantiator#9,0.30151134457776363
+org.mockito.internal.creation.instance.ConstructorInstantiator#10,0.30151134457776363
+org.mockito.internal.creation.instance.ConstructorInstantiator#11,0.30151134457776363
+org.mockito.internal.creation.instance.ConstructorInstantiator#14,0.30151134457776363
+org.mockito.internal.creation.instance.ConstructorInstantiator#15,0.0
+org.mockito.internal.creation.instance.ConstructorInstantiator#17,0.5773502691896258
+org.mockito.internal.creation.instance.ConstructorInstantiator#24,0.5773502691896258
+org.mockito.internal.creation.instance.ConstructorInstantiator#25,0.7071067811865475
+org.mockito.internal.creation.instance.ConstructorInstantiator#26,0.7071067811865475
+org.mockito.internal.creation.instance.ConstructorInstantiator#27,0.7071067811865475
+org.mockito.internal.creation.instance.ConstructorInstantiator#32,0.7071067811865475
+org.mockito.internal.creation.instance.ConstructorInstantiator#33,0.7071067811865475
+org.mockito.internal.creation.instance.ConstructorInstantiator#39,0.0
+org.mockito.internal.creation.instance.ConstructorInstantiator#40,0.0
+org.mockito.internal.creation.instance.ConstructorInstantiator#41,0.0
+org.mockito.internal.creation.instance.ConstructorInstantiator#42,0.0

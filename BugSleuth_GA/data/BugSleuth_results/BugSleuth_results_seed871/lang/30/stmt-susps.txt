@@ -1,0 +1,5 @@
+org.apache.commons.lang3.StringUtils#1674
+org.apache.commons.lang3.StringUtils#1677
+org.apache.commons.lang3.text.translate.UnicodeEscaper#58
+org.apache.commons.lang3.StringUtils#1679
+org.apache.commons.lang3.text.translate.UnicodeEscaper#53

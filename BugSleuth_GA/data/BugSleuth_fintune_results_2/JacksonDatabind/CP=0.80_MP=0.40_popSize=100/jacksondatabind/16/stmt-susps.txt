@@ -1,0 +1,5 @@
+com.fasterxml.jackson.databind.introspect.AnnotatedClass#422
+com.fasterxml.jackson.databind.introspect.AnnotatedClass#732
+com.fasterxml.jackson.databind.deser.std.UUIDDeserializer#36
+com.fasterxml.jackson.databind.deser.std.UUIDDeserializer#32
+com.fasterxml.jackson.databind.introspect.AnnotatedClass#685

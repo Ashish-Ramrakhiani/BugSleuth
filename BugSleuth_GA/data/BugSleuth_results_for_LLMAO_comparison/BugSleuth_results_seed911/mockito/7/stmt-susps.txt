@@ -1,0 +1,5 @@
+org.mockito.internal.util.reflection.GenericMetadataSupport#213
+org.mockito.internal.util.reflection.GenericMetadataSupport#439
+org.mockito.internal.util.reflection.GenericMetadataSupport#228
+org.mockito.internal.util.reflection.GenericMetadataSupport#431
+org.mockito.internal.util.reflection.GenericMetadataSupport#265

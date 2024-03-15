@@ -1,0 +1,5 @@
+org.apache.commons.lang3.text.translate.LookupTranslator#69
+org.apache.commons.lang3.text.translate.LookupTranslator#77
+org.apache.commons.lang3.text.translate.LookupTranslator#83
+org.apache.commons.lang3.text.translate.LookupTranslator#45
+org.apache.commons.lang3.text.translate.LookupTranslator#71

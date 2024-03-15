@@ -1,0 +1,5 @@
+com.fasterxml.jackson.databind.jsontype.impl.SubTypeValidator#27
+com.fasterxml.jackson.databind.jsontype.impl.SubTypeValidator#84
+com.fasterxml.jackson.databind.jsontype.impl.SubTypeValidator#61
+com.fasterxml.jackson.databind.util.ClassUtil#894
+com.fasterxml.jackson.databind.deser.DeserializerCache#251

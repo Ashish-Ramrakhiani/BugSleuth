@@ -1,0 +1,15 @@
+org.mockito.internal.matchers.Same#18,0.35355339059327373
+org.mockito.internal.matchers.Same#19,0.35355339059327373
+org.mockito.internal.matchers.Same#20,0.35355339059327373
+org.mockito.internal.matchers.Same#23,0.4472135954999579
+org.mockito.internal.matchers.Same#27,0.4472135954999579
+org.mockito.internal.matchers.Same#28,0.4472135954999579
+org.mockito.internal.matchers.Same#29,0.4472135954999579
+org.mockito.internal.matchers.Same#30,0.0
+org.mockito.internal.matchers.Same#31,0.0
+org.mockito.internal.matchers.Same#32,0.0
+org.mockito.internal.matchers.Same#35,0.4472135954999579
+org.mockito.internal.matchers.Same#36,0.0
+org.mockito.internal.matchers.Same#37,0.5773502691896258
+org.mockito.internal.matchers.Same#38,0.0
+org.mockito.internal.matchers.Same#40,0.4472135954999579

@@ -1,0 +1,5 @@
+com.fasterxml.jackson.databind.ObjectMapper#616
+com.fasterxml.jackson.databind.node.TreeTraversingParser#314
+com.fasterxml.jackson.databind.ObjectMapper#2749
+com.fasterxml.jackson.databind.ObjectMapper#615
+com.fasterxml.jackson.databind.ObjectMapper#2748

@@ -1,0 +1,5 @@
+com.fasterxml.jackson.databind.deser.impl.BeanPropertyMap#450
+com.fasterxml.jackson.databind.ser.std.InetSocketAddressSerializer#24
+com.fasterxml.jackson.databind.deser.SettableBeanProperty#115
+com.fasterxml.jackson.databind.util.ClassUtil#894
+com.fasterxml.jackson.databind.deser.impl.BeanPropertyMap#519

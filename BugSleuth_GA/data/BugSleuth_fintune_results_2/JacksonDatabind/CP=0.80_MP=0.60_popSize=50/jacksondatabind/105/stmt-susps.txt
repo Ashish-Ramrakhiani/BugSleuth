@@ -1,0 +1,5 @@
+com.fasterxml.jackson.databind.ObjectMapper#704
+com.fasterxml.jackson.databind.ObjectMapper#703
+com.fasterxml.jackson.databind.deser.ValueInstantiator#262
+com.fasterxml.jackson.databind.util.TokenBuffer#1316
+com.fasterxml.jackson.databind.deser.std.StdValueInstantiator#356

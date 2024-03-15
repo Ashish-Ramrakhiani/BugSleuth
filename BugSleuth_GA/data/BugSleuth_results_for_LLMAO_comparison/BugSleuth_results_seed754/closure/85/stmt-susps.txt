@@ -1,0 +1,5 @@
+com.google.javascript.jscomp.Compiler#1681
+com.google.javascript.jscomp.SideEffectsAnalysis#186
+com.google.javascript.rhino.Node#917
+com.google.javascript.rhino.Node#918
+com.google.javascript.rhino.Node#916

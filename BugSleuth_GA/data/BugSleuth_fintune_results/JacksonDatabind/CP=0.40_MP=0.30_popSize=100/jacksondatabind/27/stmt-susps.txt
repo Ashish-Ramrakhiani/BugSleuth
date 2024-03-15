@@ -1,0 +1,5 @@
+com.fasterxml.jackson.databind.ObjectWriter#1231
+com.fasterxml.jackson.databind.deser.CreatorProperty#198
+com.fasterxml.jackson.databind.introspect.POJOPropertiesCollector#723
+com.fasterxml.jackson.databind.ObjectWriter#1240
+com.fasterxml.jackson.databind.ObjectWriter#1239

@@ -1,0 +1,5 @@
+org.jsoup.parser.Parser#90
+org.jsoup.parser.HtmlTreeBuilderState#1345
+org.jsoup.safety.Cleaner#43
+org.jsoup.safety.Cleaner#62
+org.jsoup.parser.HtmlTreeBuilder#36

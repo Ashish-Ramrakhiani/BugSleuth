@@ -1,0 +1,5 @@
+com.fasterxml.jackson.databind.ext.OptionalHandlerFactory#50
+com.fasterxml.jackson.databind.deser.BasicDeserializerFactory#1839
+com.fasterxml.jackson.databind.deser.BasicDeserializerFactory#1838
+com.fasterxml.jackson.databind.ext.OptionalHandlerFactory#48
+com.fasterxml.jackson.databind.type.MapType#147

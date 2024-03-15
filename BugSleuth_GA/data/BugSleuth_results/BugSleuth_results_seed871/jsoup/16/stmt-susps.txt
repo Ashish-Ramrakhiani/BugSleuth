@@ -1,0 +1,5 @@
+org.jsoup.nodes.DocumentType#37
+org.jsoup.nodes.DocumentType#35
+org.jsoup.Connection#174
+org.jsoup.nodes.DocumentType#24
+org.jsoup.Connection#354

@@ -1,0 +1,5 @@
+com.fasterxml.jackson.databind.ser.std.JsonValueSerializer#226
+com.fasterxml.jackson.databind.deser.std.UUIDDeserializer#120
+com.fasterxml.jackson.databind.ser.std.JsonValueSerializer#241
+com.fasterxml.jackson.databind.ser.std.JsonValueSerializer#211
+com.fasterxml.jackson.databind.deser.std.UUIDDeserializer#121

@@ -1,0 +1,5 @@
+com.fasterxml.jackson.databind.deser.BeanDeserializerBase#1273
+com.fasterxml.jackson.databind.type.TypeFactory#192
+com.fasterxml.jackson.databind.util.EnumResolver#188
+com.fasterxml.jackson.databind.deser.std.StdKeyDeserializer#394
+com.fasterxml.jackson.databind.deser.BeanDeserializerBase#1271

@@ -1,0 +1,5 @@
+com.fasterxml.jackson.databind.ser.std.InetSocketAddressSerializer#24
+com.fasterxml.jackson.databind.deser.impl.BeanPropertyMap#450
+com.fasterxml.jackson.databind.JsonDeserializer#168
+com.fasterxml.jackson.databind.ser.std.InetSocketAddressSerializer#25
+com.fasterxml.jackson.databind.ObjectMapper#696

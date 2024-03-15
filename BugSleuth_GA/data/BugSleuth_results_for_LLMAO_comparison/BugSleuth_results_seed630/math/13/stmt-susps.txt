@@ -1,0 +1,5 @@
+org.apache.commons.math3.optimization.general.AbstractLeastSquaresOptimizer#423
+org.apache.commons.math3.optimization.general.AbstractLeastSquaresOptimizer#505
+org.apache.commons.math3.optimization.general.AbstractLeastSquaresOptimizer#516
+org.apache.commons.math3.optimization.general.AbstractLeastSquaresOptimizer#422
+org.apache.commons.math3.optimization.general.AbstractLeastSquaresOptimizer#496

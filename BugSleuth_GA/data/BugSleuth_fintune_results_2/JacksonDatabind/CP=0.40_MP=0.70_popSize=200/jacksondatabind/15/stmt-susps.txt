@@ -1,0 +1,5 @@
+com.fasterxml.jackson.databind.util.ClassUtil#604
+com.fasterxml.jackson.databind.util.ClassUtil#603
+com.fasterxml.jackson.databind.JsonMappingException#326
+com.fasterxml.jackson.databind.ext.OptionalHandlerFactory#21
+com.fasterxml.jackson.databind.ObjectWriter#1064

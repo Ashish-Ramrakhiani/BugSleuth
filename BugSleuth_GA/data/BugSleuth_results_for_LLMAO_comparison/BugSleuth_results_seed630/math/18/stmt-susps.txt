@@ -1,0 +1,5 @@
+org.apache.commons.math3.optimization.direct.CMAESOptimizer#490
+org.apache.commons.math3.optimization.direct.CMAESOptimizer#507
+org.apache.commons.math3.optimization.direct.CMAESOptimizer#482
+org.apache.commons.math3.optimization.direct.CMAESOptimizer#436
+org.apache.commons.math3.optimization.direct.CMAESOptimizer#751

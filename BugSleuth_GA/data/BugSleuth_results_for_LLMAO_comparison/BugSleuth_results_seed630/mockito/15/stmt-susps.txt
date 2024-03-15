@@ -1,0 +1,5 @@
+org.mockito.ArgumentCaptor#47
+org.mockito.Matchers#228
+org.mockito.internal.configuration.injection.FinalMockCandidateFilter#34
+org.mockito.Matchers#227
+org.mockito.internal.configuration.injection.FinalMockCandidateFilter#22

@@ -1,0 +1,5 @@
+org.apache.commons.lang.enums.ValuedEnum#587
+org.apache.commons.lang.enums.ValuedEnum#579
+org.apache.commons.lang.enums.ValuedEnum#583
+org.apache.commons.lang.enums.ValuedEnum#142
+org.apache.commons.lang.enums.ValuedEnum#141

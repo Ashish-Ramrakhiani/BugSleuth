@@ -1,0 +1,5 @@
+com.fasterxml.jackson.databind.deser.std.StringArrayDeserializer#65
+com.fasterxml.jackson.databind.introspect.POJOPropertiesCollector#837
+com.fasterxml.jackson.databind.deser.std.StringArrayDeserializer#70
+com.fasterxml.jackson.databind.introspect.POJOPropertiesCollector#317
+com.fasterxml.jackson.databind.deser.std.StringArrayDeserializer#75

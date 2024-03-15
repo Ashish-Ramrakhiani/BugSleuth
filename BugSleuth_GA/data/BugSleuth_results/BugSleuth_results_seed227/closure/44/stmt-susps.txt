@@ -1,0 +1,5 @@
+com.google.javascript.jscomp.NodeUtil#2148
+com.google.javascript.jscomp.parsing.IRFactory#1131
+com.google.javascript.jscomp.MaybeReachingVariableUse#153
+com.google.javascript.jscomp.graph.FixedPointGraphTraversal#46
+com.google.javascript.jscomp.CodeGenerator#280

@@ -1,0 +1,5 @@
+com.fasterxml.jackson.databind.deser.std.UUIDDeserializer#39
+com.fasterxml.jackson.databind.jsontype.impl.TypeDeserializerBase#95
+com.fasterxml.jackson.databind.exc.PropertyBindingException#98
+com.fasterxml.jackson.databind.JsonMappingException#455
+com.fasterxml.jackson.databind.exc.PropertyBindingException#100

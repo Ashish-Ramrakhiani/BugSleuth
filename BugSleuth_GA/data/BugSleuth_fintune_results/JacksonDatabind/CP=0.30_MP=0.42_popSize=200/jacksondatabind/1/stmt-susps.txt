@@ -1,0 +1,5 @@
+com.fasterxml.jackson.databind.ser.BeanPropertyWriter#588
+com.fasterxml.jackson.databind.ser.std.BeanSerializerBase#450
+com.fasterxml.jackson.databind.ser.impl.BeanAsArraySerializer#173
+com.fasterxml.jackson.databind.deser.BeanDeserializerBase#766
+com.fasterxml.jackson.databind.ser.BeanPropertyWriter#587

@@ -1,0 +1,5 @@
+org.apache.commons.lang3.StringEscapeUtils#145
+org.apache.commons.lang3.text.translate.LookupTranslator#83
+org.apache.commons.lang3.StringEscapeUtils#146
+org.apache.commons.lang3.StringEscapeUtils#130
+org.apache.commons.lang3.StringEscapeUtils#511

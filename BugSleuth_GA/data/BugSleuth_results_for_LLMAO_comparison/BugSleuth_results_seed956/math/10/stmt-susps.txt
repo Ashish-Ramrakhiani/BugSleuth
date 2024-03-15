@@ -1,0 +1,5 @@
+org.apache.commons.math3.analysis.differentiation.DSCompiler#1409
+org.apache.commons.math3.analysis.differentiation.DSCompiler#1390
+org.apache.commons.math3.analysis.differentiation.DSCompiler#1394
+org.apache.commons.math3.analysis.differentiation.DSCompiler#1391
+org.apache.commons.math3.analysis.differentiation.DSCompiler#1397

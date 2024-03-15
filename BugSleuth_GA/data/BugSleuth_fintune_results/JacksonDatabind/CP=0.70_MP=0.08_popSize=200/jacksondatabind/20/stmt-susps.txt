@@ -1,0 +1,5 @@
+com.fasterxml.jackson.databind.PropertyNamingStrategy#155
+com.fasterxml.jackson.databind.introspect.POJOPropertiesCollector#914
+com.fasterxml.jackson.databind.introspect.POJOPropertiesCollector#813
+com.fasterxml.jackson.databind.JsonMappingException#326
+com.fasterxml.jackson.databind.PropertyNamingStrategy#322

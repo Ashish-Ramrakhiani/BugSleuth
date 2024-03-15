@@ -1,0 +1,5 @@
+com.fasterxml.jackson.databind.jsontype.impl.StdSubtypeResolver#164
+com.fasterxml.jackson.databind.ser.std.StringSerializer#44
+com.fasterxml.jackson.databind.ObjectMapper#679
+com.fasterxml.jackson.databind.ser.impl.ReadOnlyClassToSerializerMap#94
+com.fasterxml.jackson.databind.ObjectMapper#710

@@ -1,0 +1,5 @@
+com.fasterxml.jackson.databind.deser.BeanDeserializer#669
+com.fasterxml.jackson.databind.deser.BeanDeserializer#343
+com.fasterxml.jackson.databind.deser.BeanDeserializer#342
+com.fasterxml.jackson.databind.deser.std.StringDeserializer#61
+com.fasterxml.jackson.databind.deser.BeanDeserializer#140

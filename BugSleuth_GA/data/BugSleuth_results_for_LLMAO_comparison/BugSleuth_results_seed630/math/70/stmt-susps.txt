@@ -1,0 +1,5 @@
+org.apache.commons.math.analysis.solvers.BisectionSolver#72
+org.apache.commons.math.analysis.solvers.BisectionSolver#66
+org.apache.commons.math.analysis.solvers.BisectionSolver#87
+org.apache.commons.math.analysis.solvers.BisectionSolver#99
+org.apache.commons.math.analysis.solvers.BisectionSolver#80

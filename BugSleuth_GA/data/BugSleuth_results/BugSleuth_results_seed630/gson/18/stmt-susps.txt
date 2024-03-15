@@ -1,0 +1,5 @@
+com.google.gson.internal.bind.MapTypeAdapterFactory#140
+com.google.gson.internal.bind.MapTypeAdapterFactory#161
+com.google.gson.internal.$Gson$Types#298
+com.google.gson.internal.bind.MapTypeAdapterFactory#153
+com.google.gson.internal.$Gson$Types#393

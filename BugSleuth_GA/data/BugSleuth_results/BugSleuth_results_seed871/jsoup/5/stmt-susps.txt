@@ -1,0 +1,5 @@
+org.jsoup.parser.Parser#206
+org.jsoup.parser.Parser#208
+org.jsoup.parser.Parser#75
+org.jsoup.parser.Parser#199
+org.jsoup.parser.Parser#81

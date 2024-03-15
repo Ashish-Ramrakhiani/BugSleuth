@@ -1,0 +1,5 @@
+org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#118
+org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#393
+org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#184
+org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#394
+org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#143

@@ -1,0 +1,5 @@
+com.fasterxml.jackson.databind.ObjectReader#1520
+com.fasterxml.jackson.databind.ObjectMapper#686
+com.fasterxml.jackson.databind.exc.UnrecognizedPropertyException#41
+com.fasterxml.jackson.databind.ObjectMapper#719
+com.fasterxml.jackson.databind.DeserializationConfig#703

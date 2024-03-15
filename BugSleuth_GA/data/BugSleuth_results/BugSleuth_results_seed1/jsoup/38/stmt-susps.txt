@@ -1,0 +1,5 @@
+org.jsoup.safety.Whitelist#116
+org.jsoup.parser.HtmlTreeBuilderState#455
+org.jsoup.parser.HtmlTreeBuilderState#1489
+org.jsoup.safety.Whitelist#115
+org.jsoup.safety.Whitelist#133

@@ -1,0 +1,5 @@
+org.apache.commons.math3.geometry.euclidean.twod.PolygonsSet#403
+org.apache.commons.math3.geometry.euclidean.twod.PolygonsSet#135
+org.apache.commons.math3.geometry.euclidean.twod.PolygonsSet#136
+org.apache.commons.math3.geometry.euclidean.twod.PolygonsSet#330
+org.apache.commons.math3.geometry.euclidean.twod.PolygonsSet#155

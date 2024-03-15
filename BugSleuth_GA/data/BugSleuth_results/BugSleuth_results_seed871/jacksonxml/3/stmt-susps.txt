@@ -1,0 +1,5 @@
+com.fasterxml.jackson.dataformat.xml.deser.FromXmlParser#669
+com.fasterxml.jackson.dataformat.xml.deser.FromXmlParser#671
+com.fasterxml.jackson.dataformat.xml.deser.FromXmlParser#670
+com.fasterxml.jackson.dataformat.xml.deser.FromXmlParser#643
+com.fasterxml.jackson.dataformat.xml.deser.FromXmlParser#620

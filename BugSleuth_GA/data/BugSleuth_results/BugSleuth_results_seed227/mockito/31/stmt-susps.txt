@@ -1,0 +1,5 @@
+org.mockito.internal.stubbing.defaultanswers.ReturnsSmartNulls#60
+org.mockito.internal.stubbing.defaultanswers.ReturnsSmartNulls#52
+org.mockito.internal.runners.RunnerFactory#26
+org.mockito.runners.ConsoleSpammingMockitoJUnitRunner#98
+org.mockito.internal.stubbing.defaultanswers.ReturnsSmartNulls#48

@@ -1,0 +1,5 @@
+com.fasterxml.jackson.databind.deser.BeanDeserializerBase#780
+com.fasterxml.jackson.databind.deser.std.AtomicReferenceDeserializer#43
+com.fasterxml.jackson.databind.deser.BeanDeserializerFactory#650
+com.fasterxml.jackson.databind.ObjectMapper#1663
+com.fasterxml.jackson.databind.deser.BeanDeserializerFactory#653

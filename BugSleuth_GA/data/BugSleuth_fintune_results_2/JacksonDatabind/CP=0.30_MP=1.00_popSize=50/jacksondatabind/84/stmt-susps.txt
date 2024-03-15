@@ -1,0 +1,5 @@
+com.fasterxml.jackson.databind.type.ClassStack#67
+com.fasterxml.jackson.databind.type.TypeFactory#1240
+com.fasterxml.jackson.databind.deser.BeanDeserializerBase#1567
+com.fasterxml.jackson.databind.introspect.JacksonAnnotationIntrospector#932
+com.fasterxml.jackson.databind.deser.BeanDeserializerBase#1547

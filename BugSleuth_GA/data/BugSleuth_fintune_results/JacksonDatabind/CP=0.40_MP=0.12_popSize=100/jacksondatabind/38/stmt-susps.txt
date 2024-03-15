@@ -1,0 +1,5 @@
+com.fasterxml.jackson.databind.type.TypeFactory#1132
+com.fasterxml.jackson.databind.type.SimpleType#116
+com.fasterxml.jackson.databind.introspect.AnnotatedClass#525
+com.fasterxml.jackson.databind.introspect.AnnotatedClass#518
+com.fasterxml.jackson.databind.type.TypeBase#256

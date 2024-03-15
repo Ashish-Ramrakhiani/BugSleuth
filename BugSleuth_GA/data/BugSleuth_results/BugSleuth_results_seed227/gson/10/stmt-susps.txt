@@ -1,0 +1,5 @@
+com.google.gson.internal.bind.JsonAdapterAnnotationTypeAdapterFactory#63
+com.google.gson.internal.bind.JsonAdapterAnnotationTypeAdapterFactory#60
+com.google.gson.internal.bind.ReflectiveTypeAdapterFactory#105
+com.google.gson.Gson#350
+com.google.gson.internal.bind.ReflectiveTypeAdapterFactory#111

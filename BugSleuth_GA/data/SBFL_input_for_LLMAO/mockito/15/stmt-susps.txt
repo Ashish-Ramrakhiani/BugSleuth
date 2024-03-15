@@ -1,0 +1,11 @@
+org.mockito.internal.configuration.injection.FinalMockCandidateFilter#17,0.21320071635561041
+org.mockito.internal.configuration.injection.FinalMockCandidateFilter#19,0.21320071635561041
+org.mockito.internal.configuration.injection.FinalMockCandidateFilter#20,0.21320071635561041
+org.mockito.internal.configuration.injection.FinalMockCandidateFilter#22,0.21320071635561041
+org.mockito.internal.configuration.injection.FinalMockCandidateFilter#34,0.2182178902359924
+org.mockito.internal.configuration.injection.FinalMockCandidateFilter#25,0.21320071635561041
+org.mockito.internal.configuration.injection.FinalMockCandidateFilter#28,0.21320071635561041
+org.mockito.internal.configuration.injection.FinalMockCandidateFilter#26,0
+org.mockito.internal.configuration.injection.FinalMockCandidateFilter#27,0
+org.mockito.internal.configuration.injection.FinalMockCandidateFilter#29,0.21320071635561041
+org.mockito.internal.configuration.injection.FinalMockCandidateFilter#36,0.2182178902359924

@@ -1,0 +1,5 @@
+org.mockito.internal.configuration.DefaultInjectionEngine#29
+org.mockito.internal.configuration.DefaultInjectionEngine#32
+org.mockito.internal.configuration.DefaultInjectionEngine#31
+org.mockito.internal.configuration.DefaultInjectionEngine#34
+org.mockito.internal.configuration.DefaultInjectionEngine#37

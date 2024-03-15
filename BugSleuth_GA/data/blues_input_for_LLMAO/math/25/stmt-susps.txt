@@ -1,0 +1,10 @@
+org.apache.commons.math3.optimization.fitting.HarmonicFitter#77,1.0
+org.apache.commons.math3.optimization.fitting.HarmonicFitter#76,0.999493670886076
+org.apache.commons.math3.optimization.fitting.HarmonicFitter#62,0.998987341772152
+org.apache.commons.math3.optimization.fitting.HarmonicFitter#61,0.998481012658228
+org.apache.commons.math3.optimization.fitting.HarmonicFitter#214,0.997974683544304
+org.apache.commons.math3.optimization.fitting.HarmonicFitter#217,0.99746835443038
+org.apache.commons.math3.optimization.fitting.HarmonicFitter#216,0.996962025316456
+org.apache.commons.math3.optimization.fitting.HarmonicFitter#45,0.9964556962025319
+org.apache.commons.math3.optimization.fitting.HarmonicFitter#46,0.9959493670886079
+org.apache.commons.math3.optimization.fitting.HarmonicFitter#218,0.9954430379746839

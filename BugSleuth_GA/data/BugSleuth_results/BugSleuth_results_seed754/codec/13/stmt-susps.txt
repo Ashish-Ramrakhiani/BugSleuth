@@ -1,0 +1,5 @@
+org.apache.commons.codec.language.DoubleMetaphone#893
+org.apache.commons.codec.language.DoubleMetaphone#88
+org.apache.commons.codec.language.DoubleMetaphone#360
+org.apache.commons.codec.language.Metaphone#362
+org.apache.commons.codec.language.Metaphone#360

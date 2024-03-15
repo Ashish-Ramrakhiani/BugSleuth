@@ -1,0 +1,5 @@
+com.google.javascript.jscomp.DisambiguateProperties#493
+com.google.javascript.jscomp.CompilerOptions#1905
+com.google.javascript.jscomp.DisambiguateProperties#497
+com.google.javascript.jscomp.CommandLineRunner#789
+com.google.javascript.jscomp.DisambiguateProperties#500

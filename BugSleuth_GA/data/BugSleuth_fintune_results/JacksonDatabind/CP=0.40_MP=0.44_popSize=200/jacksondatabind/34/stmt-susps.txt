@@ -1,0 +1,5 @@
+com.fasterxml.jackson.databind.ser.std.NumberSerializer#76
+com.fasterxml.jackson.databind.ObjectMapper#691
+com.fasterxml.jackson.databind.ser.std.NumberSerializer#77
+com.fasterxml.jackson.databind.util.TokenBuffer#789
+com.fasterxml.jackson.databind.ser.std.NumberSerializer#81

@@ -1,0 +1,5 @@
+com.google.javascript.jscomp.ComposeWarningsGuard#132
+com.google.javascript.jscomp.RemoveUnusedVars#937
+com.google.javascript.jscomp.PeepholeSubstituteAlternateSyntax#910
+com.google.javascript.jscomp.DiagnosticGroups#190
+com.google.javascript.jscomp.PeepholeSubstituteAlternateSyntax#486

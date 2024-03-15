@@ -1,0 +1,5 @@
+com.fasterxml.jackson.databind.ext.OptionalHandlerFactory#50
+com.fasterxml.jackson.databind.deser.BuilderBasedDeserializer#595
+com.fasterxml.jackson.databind.ext.OptionalHandlerFactory#47
+com.fasterxml.jackson.databind.ext.OptionalHandlerFactory#45
+com.fasterxml.jackson.databind.deser.BuilderBasedDeserializer#571

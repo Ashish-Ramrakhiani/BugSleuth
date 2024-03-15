@@ -1,0 +1,5 @@
+com.fasterxml.jackson.databind.deser.BeanDeserializerBase#1370
+com.fasterxml.jackson.databind.JsonMappingException#508
+com.fasterxml.jackson.databind.deser.BeanDeserializerBase#1361
+com.fasterxml.jackson.databind.deser.BeanDeserializer#277
+com.fasterxml.jackson.databind.deser.BeanDeserializer#278

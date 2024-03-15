@@ -1,0 +1,5 @@
+org.apache.commons.math3.fraction.Fraction#212
+org.apache.commons.math3.fraction.Fraction#573
+org.apache.commons.math3.fraction.FractionConversionException#54
+org.apache.commons.math3.fraction.Fraction#630
+org.apache.commons.math3.fraction.Fraction#215
