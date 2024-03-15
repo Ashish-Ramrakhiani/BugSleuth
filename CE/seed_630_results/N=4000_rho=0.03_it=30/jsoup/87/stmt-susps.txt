@@ -1,0 +1,5 @@
+org.jsoup.parser.Parser#207
+org.jsoup.safety.Whitelist#110
+org.jsoup.nodes.Document#97
+org.jsoup.parser.HtmlTreeBuilder#462
+org.jsoup.parser.HtmlTreeBuilder#60

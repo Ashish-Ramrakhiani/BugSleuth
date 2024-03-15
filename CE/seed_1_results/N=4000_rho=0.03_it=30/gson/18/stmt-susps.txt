@@ -1,0 +1,5 @@
+com.google.gson.internal.Excluder#160
+com.google.gson.internal.ConstructorConstructor#179
+com.google.gson.internal.ConstructorConstructor#185
+com.google.gson.internal.$Gson$Types#393
+com.google.gson.internal.$Gson$Types#585

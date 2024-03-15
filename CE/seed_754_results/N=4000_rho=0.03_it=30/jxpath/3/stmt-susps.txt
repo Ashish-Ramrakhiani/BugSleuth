@@ -1,0 +1,5 @@
+org.apache.commons.jxpath.util.ValueUtils#497
+org.apache.commons.jxpath.ri.model.beans.CollectionPointerFactory#45
+org.apache.commons.jxpath.JXPathContext#654
+org.apache.commons.jxpath.ri.axes.SimplePathInterpreter#564
+org.apache.commons.jxpath.ri.model.NodePointer#69

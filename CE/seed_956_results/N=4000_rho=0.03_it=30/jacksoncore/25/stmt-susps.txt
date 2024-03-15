@@ -1,0 +1,5 @@
+com.fasterxml.jackson.core.sym.CharsToNameCanonicalizer#479
+com.fasterxml.jackson.core.json.ReaderBasedJsonParser#1806
+com.fasterxml.jackson.core.json.ReaderBasedJsonParser#1807
+com.fasterxml.jackson.core.json.ReaderBasedJsonParser#1950
+com.fasterxml.jackson.core.json.ReaderBasedJsonParser#1951

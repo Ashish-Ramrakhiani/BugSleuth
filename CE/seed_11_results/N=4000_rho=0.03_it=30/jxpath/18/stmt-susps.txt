@@ -1,0 +1,5 @@
+org.apache.commons.jxpath.ri.axes.AttributeContext#76
+org.apache.commons.jxpath.ri.compiler.CoreFunction#267
+org.apache.commons.jxpath.ri.compiler.CoreFunction#451
+org.apache.commons.jxpath.ri.compiler.CoreFunction#456
+org.apache.commons.jxpath.ri.compiler.CoreFunction#457

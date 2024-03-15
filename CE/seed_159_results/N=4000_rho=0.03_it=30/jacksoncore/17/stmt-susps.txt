@@ -1,0 +1,5 @@
+com.fasterxml.jackson.core.base.GeneratorBase#298
+com.fasterxml.jackson.core.base.GeneratorBase#299
+com.fasterxml.jackson.core.JsonFactory#1331
+com.fasterxml.jackson.core.JsonProcessingException#127
+com.fasterxml.jackson.core.json.UTF8JsonGenerator#572

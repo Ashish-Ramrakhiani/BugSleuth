@@ -1,0 +1,5 @@
+org.jsoup.safety.Cleaner#39
+org.jsoup.parser.Parser#89
+org.jsoup.parser.Parser#90
+org.jsoup.parser.TreeBuilder#40
+org.jsoup.parser.TreeBuilder#41

@@ -1,0 +1,5 @@
+com.google.javascript.jscomp.ReplaceStrings#49
+com.google.javascript.jscomp.WarningLevel#36
+com.google.javascript.jscomp.WarningLevel#37
+com.google.javascript.jscomp.AbstractCommandLineRunner#138
+com.google.javascript.jscomp.WarningLevel#58

@@ -1,0 +1,5 @@
+com.google.javascript.jscomp.TypeCheck#1913
+com.google.javascript.jscomp.TypeCheck#1777
+com.google.javascript.jscomp.TypeCheck#1917
+com.google.javascript.jscomp.TypeCheck#1767
+com.google.javascript.jscomp.TypeCheck#938

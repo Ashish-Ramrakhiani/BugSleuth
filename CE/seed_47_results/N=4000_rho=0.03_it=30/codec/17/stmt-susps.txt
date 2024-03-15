@@ -1,0 +1,5 @@
+org.apache.commons.codec.binary.StringUtils#339
+org.apache.commons.codec.binary.StringUtils#419
+org.apache.commons.codec.binary.Base64#736
+org.apache.commons.codec.binary.StringUtils#292
+org.apache.commons.codec.Charsets#114

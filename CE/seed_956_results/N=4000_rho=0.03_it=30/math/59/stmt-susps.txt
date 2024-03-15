@@ -1,0 +1,5 @@
+org.apache.commons.math.util.FastMath#3446
+org.apache.commons.math.util.FastMath#3482
+org.apache.commons.math.dfp.DfpField#174
+org.apache.commons.math.ode.events.EventState#99
+org.apache.commons.math.dfp.DfpField#188

@@ -1,0 +1,5 @@
+org.apache.commons.collections4.IteratorUtils#605
+org.apache.commons.collections4.CollectionUtils#1695
+org.apache.commons.collections4.iterators.CollatingIterator#366
+org.apache.commons.collections4.CollectionUtils#1694
+org.apache.commons.collections4.iterators.CollatingIterator#44

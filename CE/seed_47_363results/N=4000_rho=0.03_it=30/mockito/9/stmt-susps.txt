@@ -1,0 +1,5 @@
+org.mockito.internal.invocation.InvocationImpl#110
+org.mockito.exceptions.Reporter#583
+org.mockito.internal.creation.cglib.ClassImposterizer#60
+org.mockito.internal.creation.cglib.ClassImposterizer#61
+org.mockito.internal.creation.cglib.ClassImposterizer#63

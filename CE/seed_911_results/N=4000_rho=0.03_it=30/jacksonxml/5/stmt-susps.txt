@@ -1,0 +1,5 @@
+com.fasterxml.jackson.dataformat.xml.XmlMapper#96
+com.fasterxml.jackson.dataformat.xml.XmlMapper#97
+com.fasterxml.jackson.dataformat.xml.deser.XmlTokenStream#309
+com.fasterxml.jackson.dataformat.xml.XmlMapper#103
+com.fasterxml.jackson.dataformat.xml.XmlMapper#104

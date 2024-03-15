@@ -1,0 +1,5 @@
+org.apache.commons.math3.distribution.DiscreteDistribution#69
+org.apache.commons.math3.distribution.DiscreteIntegerDistribution#86
+org.apache.commons.math3.distribution.DiscreteDistribution#142
+org.apache.commons.math3.distribution.DiscreteDistribution#187
+org.apache.commons.math3.distribution.DiscreteDistribution#189

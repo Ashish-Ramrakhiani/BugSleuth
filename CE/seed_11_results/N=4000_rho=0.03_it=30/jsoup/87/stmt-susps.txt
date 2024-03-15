@@ -1,0 +1,5 @@
+org.jsoup.parser.Parser#207
+org.jsoup.safety.Whitelist#110
+org.jsoup.helper.Validate#101
+org.jsoup.safety.Whitelist#109
+org.jsoup.parser.HtmlTreeBuilder#60

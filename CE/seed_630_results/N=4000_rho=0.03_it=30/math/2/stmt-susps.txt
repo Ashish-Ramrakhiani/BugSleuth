@@ -1,0 +1,5 @@
+org.apache.commons.math3.distribution.AbstractIntegerDistribution#193
+org.apache.commons.math3.random.BitsStreamGenerator#90
+org.apache.commons.math3.random.BitsStreamGenerator#91
+org.apache.commons.math3.random.BitsStreamGenerator#92
+org.apache.commons.math3.random.RandomDataGenerator#439

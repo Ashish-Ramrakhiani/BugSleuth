@@ -1,0 +1,5 @@
+org.jsoup.nodes.XmlDeclaration#22
+org.jsoup.nodes.XmlDeclaration#23
+org.jsoup.nodes.XmlDeclaration#24
+org.jsoup.nodes.XmlDeclaration#25
+org.jsoup.nodes.XmlDeclaration#26

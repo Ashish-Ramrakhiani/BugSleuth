@@ -1,0 +1,5 @@
+org.apache.commons.cli2.builder.PatternBuilder#46
+org.apache.commons.cli2.validation.ClassValidator#184
+org.apache.commons.cli2.builder.PatternBuilder#61
+org.apache.commons.cli2.builder.PatternBuilder#67
+org.apache.commons.cli2.option.SourceDestArgument#75

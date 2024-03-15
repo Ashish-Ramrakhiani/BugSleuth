@@ -1,0 +1,5 @@
+org.apache.commons.math.util.FastMath#653
+org.apache.commons.math.util.FastMath#640
+org.apache.commons.math.util.FastMath#658
+org.apache.commons.math.util.ContinuedFraction#163
+org.apache.commons.math.util.ContinuedFraction#164

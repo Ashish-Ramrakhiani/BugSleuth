@@ -1,0 +1,5 @@
+com.google.javascript.jscomp.ShowByPathWarningsGuard#73
+com.google.javascript.jscomp.WarningLevel#36
+com.google.javascript.jscomp.ReplaceStrings#48
+com.google.javascript.jscomp.WarningLevel#55
+com.google.javascript.jscomp.WarningLevel#58

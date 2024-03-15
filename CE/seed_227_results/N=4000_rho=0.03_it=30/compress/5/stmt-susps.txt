@@ -1,0 +1,5 @@
+org.apache.commons.compress.archivers.tar.TarArchiveOutputStream#39
+org.apache.commons.compress.archivers.zip.ZipArchiveInputStream#204
+org.apache.commons.compress.archivers.zip.ZipArchiveInputStream#205
+org.apache.commons.compress.archivers.tar.TarArchiveOutputStream#343
+org.apache.commons.compress.archivers.zip.ZipEncodingHelper#240

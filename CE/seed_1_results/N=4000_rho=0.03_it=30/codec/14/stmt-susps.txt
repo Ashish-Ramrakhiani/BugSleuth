@@ -1,0 +1,5 @@
+org.apache.commons.codec.language.bm.Rule#602
+org.apache.commons.codec.language.bm.Rule#595
+org.apache.commons.codec.language.bm.Rule#513
+org.apache.commons.codec.language.bm.Rule#235
+org.apache.commons.codec.digest.Sha2Crypt#134

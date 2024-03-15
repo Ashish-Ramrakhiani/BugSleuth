@@ -1,0 +1,5 @@
+org.jsoup.nodes.XmlDeclaration#22
+org.jsoup.helper.DataUtil#94
+org.jsoup.nodes.XmlDeclaration#24
+org.jsoup.nodes.XmlDeclaration#25
+org.jsoup.helper.HttpConnection#651

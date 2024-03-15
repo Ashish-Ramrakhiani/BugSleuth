@@ -1,0 +1,5 @@
+com.fasterxml.jackson.core.base.ParserMinimalBase#397
+com.fasterxml.jackson.core.base.ParserMinimalBase#400
+com.fasterxml.jackson.core.base.ParserMinimalBase#401
+com.fasterxml.jackson.core.JsonToken#199
+com.fasterxml.jackson.core.json.ReaderBasedJsonParser#246

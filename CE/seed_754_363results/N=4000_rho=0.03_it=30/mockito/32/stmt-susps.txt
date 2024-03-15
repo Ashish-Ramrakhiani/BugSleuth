@@ -1,0 +1,5 @@
+org.mockito.internal.configuration.SpyAnnotationEngine#45
+org.mockito.internal.configuration.SpyAnnotationEngine#49
+org.mockito.Mockito#1146
+org.mockito.internal.configuration.SpyAnnotationEngine#34
+org.mockito.internal.configuration.SpyAnnotationEngine#36

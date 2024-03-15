@@ -1,0 +1,5 @@
+org.mockito.Matchers#362
+org.mockito.internal.matchers.InstanceOf#16
+org.mockito.internal.matchers.InstanceOf#17
+org.mockito.runners.MockitoJUnitRunner#66
+org.mockito.Matchers#516

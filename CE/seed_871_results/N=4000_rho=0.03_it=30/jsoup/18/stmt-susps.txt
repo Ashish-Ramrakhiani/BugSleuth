@@ -1,0 +1,5 @@
+org.jsoup.parser.CharacterReader#99
+org.jsoup.parser.CharacterReader#100
+org.jsoup.parser.CharacterReader#101
+org.jsoup.safety.Whitelist#114
+org.jsoup.parser.CharacterReader#62

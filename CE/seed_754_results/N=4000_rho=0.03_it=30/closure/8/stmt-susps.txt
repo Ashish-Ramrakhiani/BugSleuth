@@ -1,0 +1,5 @@
+com.google.javascript.rhino.InputId#74
+com.google.javascript.jscomp.SourceFile#303
+com.google.javascript.rhino.Node#112
+com.google.javascript.rhino.Node#115
+com.google.javascript.jscomp.CompilerOptions#1803

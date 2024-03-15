@@ -1,0 +1,5 @@
+org.apache.commons.math.analysis.solvers.BaseAbstractUnivariateRealSolver#295
+org.apache.commons.math.analysis.solvers.BaseAbstractUnivariateRealSolver#296
+org.apache.commons.math.util.Incrementor#85
+org.apache.commons.math.exception.MathIllegalStateException#45
+org.apache.commons.math.exception.MathIllegalStateException#36

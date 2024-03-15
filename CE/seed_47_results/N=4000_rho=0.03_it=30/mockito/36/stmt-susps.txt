@@ -1,0 +1,5 @@
+org.mockito.internal.invocation.realmethod.FilteredCGLIBProxyRealMethod#27
+org.mockito.internal.creation.jmock.ClassImposterizer#86
+org.mockito.runners.ConsoleSpammingMockitoJUnitRunner#93
+org.mockito.internal.invocation.Invocation#202
+org.mockito.internal.creation.AbstractMockitoMethodProxy#11

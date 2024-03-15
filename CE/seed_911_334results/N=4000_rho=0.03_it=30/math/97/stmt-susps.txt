@@ -1,0 +1,5 @@
+org.apache.commons.math.analysis.UnivariateRealSolverImpl#169
+org.apache.commons.math.analysis.BrentSolver#141
+org.apache.commons.math.analysis.BrentSolver#193
+org.apache.commons.math.analysis.BrentSolver#126
+org.apache.commons.math.analysis.BrentSolver#65

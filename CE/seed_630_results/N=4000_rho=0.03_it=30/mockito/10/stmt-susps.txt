@@ -1,0 +1,5 @@
+org.mockito.internal.creation.jmock.SearchingClassLoader#70
+org.mockito.internal.creation.jmock.SearchingClassLoader#71
+org.mockito.internal.creation.jmock.ClassImposterizer#74
+org.mockito.internal.creation.jmock.SearchingClassLoader#19
+org.mockito.internal.creation.jmock.SearchingClassLoader#20

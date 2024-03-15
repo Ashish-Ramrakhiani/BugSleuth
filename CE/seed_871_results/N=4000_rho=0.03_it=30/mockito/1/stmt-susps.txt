@@ -1,0 +1,5 @@
+org.mockito.ArgumentCaptor#105
+org.mockito.internal.invocation.InvocationMatcher#123
+org.mockito.ArgumentCaptor#67
+org.mockito.internal.invocation.ArgumentsProcessor#28
+org.mockito.ArgumentCaptor#155

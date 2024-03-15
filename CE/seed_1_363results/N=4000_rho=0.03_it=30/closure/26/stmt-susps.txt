@@ -1,0 +1,5 @@
+com.google.javascript.rhino.Node#131
+com.google.javascript.jscomp.ProcessCommonJSModules#65
+com.google.javascript.jscomp.ProcessCommonJSModules#67
+com.google.javascript.jscomp.AbstractCommandLineRunner#689
+com.google.javascript.jscomp.AbstractCommandLineRunner#650

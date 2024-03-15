@@ -1,0 +1,5 @@
+org.apache.commons.math.util.OpenIntToDoubleHashMap#216
+org.apache.commons.math.MathRuntimeException#462
+org.apache.commons.math.util.OpenIntToDoubleHashMap#564
+org.apache.commons.math.linear.AbstractRealVector#67
+org.apache.commons.math.linear.OpenMapRealVector#368

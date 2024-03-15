@@ -1,0 +1,5 @@
+org.jsoup.parser.Parser#207
+org.jsoup.helper.Validate#103
+org.jsoup.parser.Tokeniser#84
+org.jsoup.helper.Validate#25
+org.jsoup.parser.Tokeniser#75

@@ -1,0 +1,5 @@
+com.google.javascript.jscomp.SourceFile#303
+com.google.javascript.rhino.InputId#74
+com.google.javascript.jscomp.TypedScopeCreator#1970
+com.google.javascript.jscomp.JsMessageVisitor#370
+com.google.javascript.jscomp.TypedScopeCreator#1953

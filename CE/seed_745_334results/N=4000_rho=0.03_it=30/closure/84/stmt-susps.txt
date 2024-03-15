@@ -1,0 +1,5 @@
+com.google.javascript.jscomp.parsing.IRFactory#308
+com.google.javascript.jscomp.MarkNoSideEffectCalls#41
+com.google.javascript.jscomp.parsing.IRFactory#858
+com.google.javascript.jscomp.testing.TestErrorReporter#50
+com.google.javascript.jscomp.testing.TestErrorReporter#51

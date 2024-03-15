@@ -1,0 +1,5 @@
+org.apache.commons.math3.util.ContinuedFraction#177
+org.apache.commons.math3.exception.MathIllegalStateException#45
+org.apache.commons.math3.exception.MathIllegalStateException#46
+org.apache.commons.math3.distribution.BinomialDistribution#86
+org.apache.commons.math3.random.RandomDataImpl#599

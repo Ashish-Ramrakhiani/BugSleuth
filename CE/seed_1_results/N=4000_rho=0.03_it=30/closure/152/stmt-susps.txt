@@ -1,0 +1,5 @@
+com.google.javascript.jscomp.FunctionTypeBuilder#185
+com.google.javascript.jscomp.FunctionTypeBuilder#186
+com.google.javascript.rhino.jstype.ProxyObjectType#76
+com.google.javascript.jscomp.AbstractCommandLineRunner#439
+com.google.javascript.jscomp.TypedScopeCreator#1428

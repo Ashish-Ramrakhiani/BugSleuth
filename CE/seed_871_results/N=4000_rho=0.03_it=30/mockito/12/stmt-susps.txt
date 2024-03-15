@@ -1,0 +1,5 @@
+org.mockito.ArgumentCaptor#85
+org.mockito.internal.util.reflection.GenericMaster#20
+org.mockito.internal.util.reflection.GenericMaster#8
+org.mockito.internal.util.reflection.GenericMaster#17
+org.mockito.ArgumentCaptor#119

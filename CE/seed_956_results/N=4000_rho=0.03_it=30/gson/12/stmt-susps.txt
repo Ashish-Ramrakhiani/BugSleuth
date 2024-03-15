@@ -1,0 +1,5 @@
+com.google.gson.internal.LinkedTreeMap#382
+com.google.gson.stream.JsonReader#1585
+com.google.gson.JsonObject#101
+com.google.gson.JsonObject#102
+com.google.gson.internal.bind.JsonTreeReader#261

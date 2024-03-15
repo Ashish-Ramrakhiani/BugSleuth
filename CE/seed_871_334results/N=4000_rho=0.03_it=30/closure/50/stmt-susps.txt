@@ -1,0 +1,5 @@
+com.google.javascript.jscomp.SourceFile#305
+com.google.javascript.rhino.InputId#74
+com.google.javascript.rhino.Node#184
+com.google.javascript.jscomp.TypeInference#1240
+com.google.javascript.jscomp.TypeInference#1241

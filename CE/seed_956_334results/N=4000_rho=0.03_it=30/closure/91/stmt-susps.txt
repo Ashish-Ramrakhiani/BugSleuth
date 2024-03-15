@@ -1,0 +1,5 @@
+com.google.javascript.jscomp.parsing.JsDocInfoParser#418
+com.google.javascript.jscomp.parsing.JsDocInfoParser#420
+com.google.javascript.jscomp.parsing.JsDocInfoParser#421
+com.google.javascript.rhino.JSDocInfo#1054
+com.google.javascript.jscomp.parsing.JsDocInfoParser#423

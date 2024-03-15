@@ -1,0 +1,5 @@
+org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream#422
+org.apache.commons.compress.archivers.ar.ArArchiveOutputStream#169
+org.apache.commons.compress.archivers.ar.ArArchiveOutputStream#170
+org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream#719
+org.apache.commons.compress.archivers.jar.JarArchiveEntry#44

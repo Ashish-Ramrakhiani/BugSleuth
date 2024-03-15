@@ -1,0 +1,5 @@
+com.google.javascript.jscomp.DiagnosticType#131
+com.google.javascript.jscomp.CheckAccessControls#455
+com.google.javascript.jscomp.CheckAccessControls#447
+com.google.javascript.jscomp.CheckAccessControls#325
+com.google.javascript.jscomp.CheckAccessControls#444

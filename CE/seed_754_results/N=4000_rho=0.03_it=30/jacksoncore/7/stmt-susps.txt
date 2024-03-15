@@ -1,0 +1,5 @@
+com.fasterxml.jackson.core.json.UTF8JsonGenerator#1039
+com.fasterxml.jackson.core.json.WriterBasedJsonGenerator#833
+com.fasterxml.jackson.core.json.WriterBasedJsonGenerator#834
+com.fasterxml.jackson.core.sym.BytesToNameCanonicalizer#1080
+com.fasterxml.jackson.core.sym.BytesToNameCanonicalizer#296

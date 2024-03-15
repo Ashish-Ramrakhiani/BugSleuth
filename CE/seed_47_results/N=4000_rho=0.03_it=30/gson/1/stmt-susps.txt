@@ -1,0 +1,5 @@
+com.google.gson.TypeInfoFactory#97
+com.google.gson.TypeInfoFactory#80
+com.google.gson.FieldAttributes#38
+com.google.gson.TypeInfoFactory#69
+com.google.gson.TypeInfoFactory#62

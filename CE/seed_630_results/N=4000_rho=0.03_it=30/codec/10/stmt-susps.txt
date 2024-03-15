@@ -1,0 +1,5 @@
+org.apache.commons.codec.language.Caverphone#170
+org.apache.commons.codec.language.Caverphone#181
+org.apache.commons.codec.language.Caverphone#62
+org.apache.commons.codec.language.Caverphone#65
+org.apache.commons.codec.language.Caverphone#68

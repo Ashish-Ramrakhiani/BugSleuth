@@ -1,0 +1,5 @@
+org.apache.commons.math.linear.AbstractRealVector#210
+org.apache.commons.math.linear.AbstractRealVector#211
+org.apache.commons.math.linear.AbstractRealVector#213
+org.apache.commons.math.linear.AbstractRealVector#214
+org.apache.commons.math.linear.OpenMapRealVector#515

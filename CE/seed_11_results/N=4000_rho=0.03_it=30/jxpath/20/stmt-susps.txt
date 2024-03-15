@@ -1,0 +1,5 @@
+org.apache.commons.jxpath.ri.compiler.CoreOperationRelationalExpression#88
+org.apache.commons.jxpath.ri.InfoSetUtil#123
+org.apache.commons.jxpath.ri.InfoSetUtil#124
+org.apache.commons.jxpath.JXPathContext#492
+org.apache.commons.jxpath.ri.InfoSetUtil#126

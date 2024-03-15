@@ -1,0 +1,5 @@
+org.mockito.internal.stubbing.defaultanswers.Answers#32
+org.mockito.internal.stubbing.defaultanswers.Answers#33
+org.mockito.internal.stubbing.defaultanswers.Answers#34
+org.mockito.internal.matchers.apachecommons.EqualsBuilder#344
+org.mockito.internal.stubbing.defaultanswers.Answers#24

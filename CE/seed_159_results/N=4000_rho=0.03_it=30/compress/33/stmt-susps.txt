@@ -1,0 +1,5 @@
+org.apache.commons.compress.compressors.CompressorStreamFactory#229
+org.apache.commons.compress.compressors.CompressorStreamFactory#253
+org.apache.commons.compress.compressors.deflate.DeflateParameters#38
+org.apache.commons.compress.compressors.pack200.Pack200CompressorInputStream#56
+org.apache.commons.compress.compressors.pack200.Pack200CompressorInputStream#57

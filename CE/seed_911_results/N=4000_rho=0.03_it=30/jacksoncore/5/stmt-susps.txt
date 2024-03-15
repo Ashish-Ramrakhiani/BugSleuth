@@ -1,0 +1,5 @@
+com.fasterxml.jackson.core.JsonPointer#204
+com.fasterxml.jackson.core.JsonPointer#198
+com.fasterxml.jackson.core.JsonPointer#225
+com.fasterxml.jackson.core.JsonPointer#55
+com.fasterxml.jackson.core.json.UTF8StreamJsonParser#1000

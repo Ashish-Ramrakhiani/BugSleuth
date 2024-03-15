@@ -1,0 +1,5 @@
+org.apache.commons.codec.binary.Base64#670
+org.apache.commons.codec.binary.Base64#934
+org.apache.commons.codec.binary.StringUtils#283
+org.apache.commons.codec.binary.Hex#48
+org.apache.commons.codec.binary.Hex#53

@@ -1,0 +1,5 @@
+com.fasterxml.jackson.dataformat.xml.deser.XmlTextDeserializer#92
+com.fasterxml.jackson.dataformat.xml.deser.XmlTextDeserializer#93
+com.fasterxml.jackson.dataformat.xml.deser.XmlTokenStream#359
+com.fasterxml.jackson.dataformat.xml.deser.XmlBeanDeserializerModifier#99
+com.fasterxml.jackson.dataformat.xml.deser.XmlTokenStream#361

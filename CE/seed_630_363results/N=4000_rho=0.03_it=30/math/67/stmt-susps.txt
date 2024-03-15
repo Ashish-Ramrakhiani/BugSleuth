@@ -1,0 +1,5 @@
+org.apache.commons.math.ConvergingAlgorithmImpl#78
+org.apache.commons.math.ConvergingAlgorithmImpl#79
+org.apache.commons.math.optimization.MultiStartUnivariateRealOptimizer#78
+org.apache.commons.math.ConvergingAlgorithmImpl#108
+org.apache.commons.math.ConvergingAlgorithmImpl#109

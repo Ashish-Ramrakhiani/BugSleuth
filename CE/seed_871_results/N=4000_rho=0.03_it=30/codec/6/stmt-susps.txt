@@ -1,0 +1,5 @@
+org.apache.commons.codec.binary.Base64InputStream#170
+org.apache.commons.codec.binary.Base64#418
+org.apache.commons.codec.binary.Base64#439
+org.apache.commons.codec.binary.Base64InputStream#145
+org.apache.commons.codec.binary.Base64InputStream#147

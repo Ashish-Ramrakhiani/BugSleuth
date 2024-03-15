@@ -1,0 +1,5 @@
+org.mockito.internal.matchers.Equality#16
+org.mockito.internal.matchers.Equality#23
+org.mockito.internal.matchers.Equality#24
+org.mockito.internal.matchers.Equality#28
+org.mockito.runners.ConsoleSpammingMockitoJUnitRunner#99

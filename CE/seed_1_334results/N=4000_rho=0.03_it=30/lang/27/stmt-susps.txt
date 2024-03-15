@@ -1,0 +1,5 @@
+org.apache.commons.lang3.math.NumberUtils#504
+org.apache.commons.lang3.math.NumberUtils#515
+org.apache.commons.lang3.math.NumberUtils#531
+org.apache.commons.lang3.math.NumberUtils#542
+org.apache.commons.lang3.math.NumberUtils#585

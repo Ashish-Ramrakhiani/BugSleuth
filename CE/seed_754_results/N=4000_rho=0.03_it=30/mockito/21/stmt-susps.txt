@@ -1,0 +1,5 @@
+org.mockito.internal.creation.instance.ConstructorInstantiator#25
+org.mockito.internal.creation.instance.ConstructorInstantiator#26
+org.mockito.internal.creation.instance.ConstructorInstantiator#27
+org.mockito.internal.creation.instance.ConstructorInstantiator#32
+org.mockito.internal.creation.cglib.AcrossJVMSerializationFeature#345

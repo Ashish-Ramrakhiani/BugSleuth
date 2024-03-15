@@ -1,0 +1,5 @@
+com.google.javascript.rhino.jstype.FunctionType#320
+com.google.javascript.jscomp.TypedScopeCreator#1194
+com.google.javascript.rhino.jstype.UnionType#195
+com.google.javascript.rhino.jstype.UnionType#199
+com.google.javascript.jscomp.TypeCheck#544

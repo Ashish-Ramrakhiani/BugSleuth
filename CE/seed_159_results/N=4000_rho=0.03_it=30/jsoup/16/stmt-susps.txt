@@ -1,0 +1,5 @@
+org.jsoup.nodes.DocumentType#35
+org.jsoup.nodes.DocumentType#37
+org.jsoup.nodes.Node#228
+org.jsoup.helper.HttpConnection#374
+org.jsoup.nodes.DocumentType#24

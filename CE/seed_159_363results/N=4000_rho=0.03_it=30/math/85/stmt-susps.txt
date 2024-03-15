@@ -1,0 +1,5 @@
+org.apache.commons.math.distribution.AbstractContinuousDistribution#88
+org.apache.commons.math.distribution.AbstractContinuousDistribution#97
+org.apache.commons.math.distribution.NormalDistributionImpl#37
+org.apache.commons.math.distribution.PoissonDistributionImpl#67
+org.apache.commons.math.analysis.solvers.UnivariateRealSolverUtils#199

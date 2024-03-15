@@ -1,0 +1,5 @@
+org.mockito.Mockito#1401
+org.mockito.internal.creation.MockSettingsImpl#104
+org.mockito.internal.creation.MockSettingsImpl#98
+org.mockito.internal.creation.MockSettingsImpl#99
+org.mockito.exceptions.Reporter#579

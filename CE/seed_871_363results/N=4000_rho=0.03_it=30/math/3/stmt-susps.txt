@@ -1,0 +1,5 @@
+org.apache.commons.math3.util.MathArrays#816
+org.apache.commons.math3.util.MathArrays#817
+org.apache.commons.math3.util.MathArrays#1303
+org.apache.commons.math3.util.MathArrays#824
+org.apache.commons.math3.analysis.differentiation.DerivativeStructure#911

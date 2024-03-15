@@ -1,0 +1,5 @@
+org.mockito.internal.creation.jmock.SearchingClassLoader#70
+org.mockito.internal.creation.jmock.SearchingClassLoader#71
+org.mockito.internal.stubbing.defaultanswers.ReturnsEmptyValues#76
+org.mockito.internal.configuration.ClassPathLoader#154
+org.mockito.exceptions.Reporter#613

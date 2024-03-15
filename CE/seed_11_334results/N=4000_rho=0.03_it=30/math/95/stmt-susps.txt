@@ -1,0 +1,5 @@
+org.apache.commons.math.analysis.UnivariateRealSolverUtils#179
+org.apache.commons.math.distribution.AbstractContinuousDistribution#67
+org.apache.commons.math.analysis.LaguerreSolver#95
+org.apache.commons.math.distribution.AbstractContinuousDistribution#81
+org.apache.commons.math.distribution.AbstractContinuousDistribution#82

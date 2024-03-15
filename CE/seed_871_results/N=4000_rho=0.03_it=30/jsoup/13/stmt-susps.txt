@@ -1,0 +1,5 @@
+org.jsoup.select.Elements#55
+org.jsoup.select.QueryParser#122
+org.jsoup.select.QueryParser#155
+org.jsoup.select.QueryParser#156
+org.jsoup.select.QueryParser#157

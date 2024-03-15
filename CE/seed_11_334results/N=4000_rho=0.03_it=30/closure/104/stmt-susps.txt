@@ -1,0 +1,5 @@
+com.google.javascript.rhino.jstype.UnionType#287
+com.google.javascript.rhino.jstype.JSType#592
+com.google.javascript.rhino.jstype.UnionType#274
+com.google.javascript.rhino.jstype.UnionType#275
+com.google.javascript.rhino.jstype.UnionType#276

@@ -1,0 +1,5 @@
+com.fasterxml.jackson.core.base.ParserBase#588
+com.fasterxml.jackson.core.base.ParserBase#589
+com.fasterxml.jackson.core.json.ReaderBasedJsonParser#875
+com.fasterxml.jackson.core.json.ReaderBasedJsonParser#1294
+com.fasterxml.jackson.core.json.ReaderBasedJsonParser#1311

@@ -1,0 +1,5 @@
+org.apache.commons.compress.archivers.sevenz.SevenZFile#104
+org.apache.commons.compress.archivers.sevenz.SevenZFile#190
+org.apache.commons.compress.archivers.sevenz.LZMA2Decoder#45
+org.apache.commons.compress.archivers.sevenz.SevenZFile#266
+org.apache.commons.compress.archivers.sevenz.SevenZFile#267

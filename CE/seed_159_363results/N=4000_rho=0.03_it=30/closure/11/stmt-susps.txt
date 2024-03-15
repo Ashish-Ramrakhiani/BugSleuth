@@ -1,0 +1,5 @@
+com.google.javascript.rhino.jstype.NoObjectType#138
+com.google.javascript.rhino.jstype.NoObjectType#151
+com.google.javascript.rhino.jstype.NoObjectType#171
+com.google.javascript.rhino.jstype.NoObjectType#161
+com.google.javascript.rhino.jstype.JSType#580

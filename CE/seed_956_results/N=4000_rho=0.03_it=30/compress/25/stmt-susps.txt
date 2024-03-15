@@ -1,0 +1,5 @@
+org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream#588
+org.apache.commons.compress.archivers.zip.ZipArchiveInputStream#381
+org.apache.commons.compress.archivers.zip.ZipArchiveInputStream#404
+org.apache.commons.compress.archivers.zip.ZipArchiveInputStream#411
+org.apache.commons.compress.archivers.zip.ZipArchiveInputStream#412

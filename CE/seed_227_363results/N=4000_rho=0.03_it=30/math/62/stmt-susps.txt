@@ -1,0 +1,5 @@
+org.apache.commons.math.optimization.univariate.AbstractUnivariateRealOptimizer#36
+org.apache.commons.math.optimization.BaseMultiStartMultivariateRealOptimizer#125
+org.apache.commons.math.optimization.general.NonLinearConjugateGradientOptimizer#142
+org.apache.commons.math.optimization.univariate.AbstractUnivariateRealOptimizer#56
+org.apache.commons.math.optimization.univariate.AbstractUnivariateRealOptimizer#60

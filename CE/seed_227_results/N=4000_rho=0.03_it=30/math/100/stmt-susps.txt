@@ -1,0 +1,5 @@
+org.apache.commons.math.estimation.AbstractEstimator#231
+org.apache.commons.math.estimation.AbstractEstimator#200
+org.apache.commons.math.estimation.EstimatedParameter#61
+org.apache.commons.math.estimation.AbstractEstimator#223
+org.apache.commons.math.estimation.EstimatedParameter#63
