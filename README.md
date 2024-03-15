@@ -27,7 +27,7 @@ The repository contains source code for BugSleuth.BugSleuth is an unsupervised f
    - Use the main function defined in `RankAggregation.java` to launch BugSleuth-GA by providing the command line arguments described in 4 above.
    - To experiment with different configuration update the parameters in file `Configuration.java`.
 
-## How to run BugSleuth-GE
+## How to run BugSleuth-CE
 Uses the command java -cp commons-math3-3.6.1/commons-math3-3.6.1.jar:. CrossEntropyMonteCarlo <defect_name>_all <number_of_techniques> <list> <of> <technique> <paths> <N> <rho> <it>
 Recomended N = 4000. This is the number of sample matreces created.
 Recomended rho = 0.03. This is the number of sample matreces chosen to update the probability.
