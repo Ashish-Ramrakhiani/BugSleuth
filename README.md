@@ -19,6 +19,13 @@ The repository contains source code for BugSleuth.BugSleuth is an unsupervised f
    - `NumOfFLTechniques` (the number of FL techniques' whose results are to be combined. This value should be at least 2) Based on the value specified, the     following arguments must specify the path to the files that store the FL results. For example, when combining the results of SBFL and Blues FL techniques, the next two arguments will be:
    - `<path-to-SBFL_results>`
    - `<path-to-Blues_results>`
+  
+## How to run BugSleuth-GE
+Uses the command java -cp commons-math3-3.6.1/commons-math3-3.6.1.jar:. CrossEntropyMonteCarlo <defect_name>_all <number_of_techniques> <list> <of> <technique> <paths> <N> <rho> <it>
+Recomended N = 4000. This is the number of sample matreces created.
+Recomended rho = 0.03. This is the number of sample matreces chosen to update the probability.
+Recomended it = 30. This is the number of itterations whith little to no changes before the completion. 
+
 ## How to experiment using different configuration parameters
    - Import the project in Eclipse and follow steps described above.
    - Use the main function defined in `RankAggregation.java` to launch BugSleuth-GA by providing the command line arguments described in 4 above.
